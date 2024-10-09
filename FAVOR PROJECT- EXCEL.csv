@@ -1,0 +1,1015 @@
+Patient's Unique No.,Gender,Age,Marital Status,Sub-County,ARTRegimenLine,WHOStage,CD4 Count,Viral Load,Weight,Height,ARTStatus
+49,M,16,Single,Kitui East,First line,WHO STAGE 1 ADULT,1606,,8.05,74,Active
+50,F,54,Married,Mwingi West,First line,WHO STAGE 2 ADULT,356,LDL,69,169,Active
+51,F,65,Widowed,Kitui West,First line,WHO STAGE 3 ADULT,459,LDL,46,144,Active
+52,M,36,Married,Kitui West,First line,WHO STAGE 2 ADULT,NULL,LDL,73,173,Active
+53,M,64,Married,Kitui West,First line,WHO STAGE 3 ADULT,NULL,LDL,52,177,Active
+54,F,40,Married,Kitui West,First line,WHO STAGE 3 ADULT,314,LDL,47,150,Active
+55,F,27,Single,Mwingi West,First line,WHO STAGE 2 ADULT,2011,LDL,53,160,Active
+56,F,65,Widowed,Kitui West,First line,WHO STAGE 2 ADULT,353,LDL,47,150,Active
+57,F,45,Married,Kitui West,First line,WHO STAGE 3 ADULT,624,LDL,160,54,Active
+58,F,54,Married,Kitui West,First line,WHO STAGE 2 ADULT,561,HDL,48,162,Active
+59,M,51,Married,Kitui Central,First line,WHO STAGE 3 ADULT,NULL,LDL,73.8,169,Active
+60,F,71,Married,Kitui West,First line,WHO STAGE 2 ADULT,309,LDL,50,159,Active
+NULL,F,42,Married,Mwingi West,First line,WHO STAGE 2 ADULT,582,LDL,59,170,Others
+62,F,39,Married,Kitui West,First line,WHO STAGE 2 ADULT,538,LDL,70,152,Active
+63,M,46,NULL,Kitui West,First line,WHO STAGE 2 ADULT,82,LDL,46,160,Active
+64,F,38,Single,Kitui West,First line,WHO STAGE 2 ADULT,578,LDL,46,148,Active
+65,F,58,NULL,Kitui West,Second line,WHO STAGE 3 ADULT,117,LDL,44,144,Active
+66,M,66,Married,Mwingi West,First line,WHO STAGE 2 ADULT,NULL,LDL,59.4,171,Active
+67,F,48,Married,Kitui West,First line,WHO STAGE 2 ADULT,564,LDL,98.8,158,Active
+68,F,64,Widowed,Kitui West,First line,WHO STAGE 2 ADULT,152,LDL,157,46.5,Active
+69,M,46,Married,Kitui West,Second line,WHO STAGE 3 ADULT,231,LDL,64,176,Active
+70,M,45,Married,Kitui West,First line,WHO STAGE 3 ADULT,465,LDL,152,41,Active
+71,M,61,Married,Kitui West,Second line,WHO STAGE 3 ADULT,225,LDL,165,61,Active
+72,F,57,Married,Kitui West,First line,WHO STAGE 3 ADULT,160,HDL,69,169,Active
+73,F,68,Widowed,KITUI WEST,First line,WHO STAGE 2 ADULT,132,LDL,51,160,Active
+74,F,41,Married,Kitui West,First line,WHO STAGE 2 ADULT,1318,HDL,53,146,Active
+NULL,M,46,Married,Kitui West,First line,WHO STAGE 2 ADULT,NULL,LDL,52,169,Others
+76,F,52,Married,Kitui West,First line,WHO STAGE 2 ADULT,158,LDL,68.5,172,Active
+NULL,F,55,Single,Kitui West,First line,WHO STAGE 3 ADULT,577,LDL,37.4,146,Died
+78,M,64,Married,Kitui West,First line,WHO STAGE 3 ADULT,116,LDL,175,58.8,Active
+79,F,39,Single,Kitui West,First line,WHO STAGE 2 ADULT,401,LDL,56,157,Active
+80,F,49,Married,Kitui West,First line,WHO STAGE 2 ADULT,270,LDL,49,157,Active
+81,F,57,Married,Kitui West,First line,WHO STAGE 3 ADULT,NULL,LDL,72.9,170,Active
+82,M,17,Single,Mwingi North,First line,WHO STAGE 2 ADULT,1045,LDL,31,135,Active
+83,F,59,Single,Mwingi West,First line,WHO STAGE 2 ADULT,104,LDL,162,84,Active
+84,F,59,Widowed,Kitui West,First line,WHO STAGE 2 ADULT,170,LDL,48,156,Active
+85,F,48,Widowed,Mwingi West,First line,WHO STAGE 2 ADULT,420,LDL,44.4,159,Active
+86,F,59,Married,Kitui West,First line,WHO STAGE 2 ADULT,NULL,LDL,83,159,Active
+87,F,41,Single,Kitui Central,First line,WHO STAGE 2 ADULT,560,LDL,75.4,164,Active
+88,F,66,Widowed,Kitui West,First line,WHO STAGE 3 ADULT,421,LDL,156,63.5,Active
+89,F,50,Single,Kitui West,First line,WHO STAGE 2 ADULT,NULL,LDL,103,155,Active
+NULL,F,7,Single,Kitui West,First line,WHO STAGE 1 ADULT,NULL,HDL,11.4,55,Transfer out
+NULL,F,27,Married,Kitui West,First line,WHO STAGE 2 ADULT,NULL,LDL,66,159,Transfer out
+92,F,54,Married,Kitui Central,First line,WHO STAGE 2 ADULT,143,LDL,68,156,Active
+93,F,55,NULL,Kitui West,First line,WHO STAGE 2 ADULT,182,HDL,149,42,Active
+NULL,F,24,Single,Mwingi West,Second line,WHO STAGE 3 ADULT,70,LDL,16,138,Died
+95,F,56,Widowed,Kitui West,Second line,WHO STAGE 2 ADULT,271,LDL,71,155,Active
+NULL,F,82,Married,Kitui West,First line,WHO STAGE 2 ADULT,116,LDL,51,159,Died
+97,M,57,Married,Kitui West,First line,WHO STAGE 2 ADULT,485,LDL,48.3,165,Active
+NULL,M,51,Married,Mwingi North,First line,WHO STAGE 2 ADULT,NULL,HDL,60.4,167,Transfer out
+99,F,66,Married,Kitui West,First line,WHO STAGE 2 ADULT,263,LDL,49,158,Active
+100,F,69,Widowed,Mwingi West,First line,WHO STAGE 2 ADULT,NULL,LDL,162,58.7,Active
+NULL,F,29,Single,KITUI WEST,NULL,WHO STAGE 2 ADULT,202,NULL,34,144,Died
+NULL,M,47,Married,Kitui West,First line,WHO STAGE 2 ADULT,NULL,HDL,63,171,Others
+NULL,F,45,Married,Kitui West,First line,WHO STAGE 2 ADULT,NULL,LDL,70,173,Lost to followup
+NULL,M,25,Single,KITUI WEST,Second line,WHO STAGE 2 ADULT,147,LDL,159,43.8,Lost to followup
+105,F,33,Married,Kitui West,First line,WHO STAGE 2 ADULT,NULL,LDL,163,66,Active
+106,M,59,NULL,Kitui West,First line,WHO STAGE 3 ADULT,474,LDL,64,170,Active
+107,F,39,Married,Kitui West,First line,WHO STAGE 2 ADULT,326,LDL,61,157,Active
+108,F,66,Married,Kitui West,First line,WHO STAGE 2 ADULT,283,LDL,54,156,Active
+109,F,49,Married,Kitui West,First line,WHO STAGE 2 ADULT,507,LDL,160,59,Active
+110,M,43,Single,Kitui West,First line,WHO STAGE 2 ADULT,NULL,LDL,64,171,Active
+111,F,45,Married,Kitui West,First line,WHO STAGE 3 ADULT,436,LDL,46,152,Active
+112,F,52,Widowed,Mwingi West,First line,WHO STAGE 2 ADULT,241,LDL,147,43.6,Active
+113,M,16,Single,Kitui West,First line,WHO STAGE 2 ADULT,768,LDL,14,100,Active
+NULL,F,34,NULL,KITUI WEST,First line,WHO STAGE 2 ADULT,NULL,HDL,54,155,Lost to followup
+115,F,53,Married,Kitui West,First line,WHO STAGE 2 ADULT,680,LDL,64.7,162,Active
+116,F,47,Married,Kitui Central,First line,WHO STAGE 2 ADULT,373,LDL,67,160,Active
+117,F,42,Widowed,Kitui West,First line,WHO STAGE 2 ADULT,244,LDL,54,154,Active
+118,M,48,Married,Masinga,First line,WHO STAGE 2 ADULT,127,LDL,81,158,Active
+119,F,18,Single,Kitui West,First line,WHO STAGE 1 ADULT,466,LDL,33,143,Active
+120,F,47,Married,Mwingi West,First line,WHO STAGE 2 ADULT,638,LDL,41,154,Active
+121,F,81,Widowed,Mwingi West,First line,WHO STAGE 2 ADULT,466,LDL,68,160,Active
+122,F,63,Widowed,Mwingi West,First line,WHO STAGE 2 ADULT,446,LDL,58.6,158,Active
+123,F,50,Married,Kitui West,First line,WHO STAGE 2 ADULT,112,LDL,49,154,Active
+124,M,50,Married,Kitui Central,First line,WHO STAGE 3 ADULT,NULL,LDL,170,60,Active
+125,F,59,Widowed,Kitui West,First line,WHO STAGE 3 ADULT,589,LDL,51,156,Active
+126,F,46,NULL,Kitui West,First line,WHO STAGE 2 ADULT,502,LDL,60,163,Active
+127,F,60,NULL,Mwingi West,First line,WHO STAGE 2 ADULT,170,LDL,78,159,Active
+128,F,41,Married,Mwingi West,First line,WHO STAGE 2 ADULT,229,LDL,76,168,Active
+129,F,63,Married,Kitui West,First line,WHO STAGE 2 ADULT,296,LDL,47,161,Active
+130,F,66,Single,Kitui West,First line,WHO STAGE 2 ADULT,560,LDL,55,160,Active
+131,F,41,Married,Kitui West,First line,WHO STAGE 2 ADULT,128,LDL,55,106,Active
+132,M,55,Married,Kitui Central,First line,WHO STAGE 2 ADULT,NULL,LDL,86,177,Active
+133,F,46,Married,Kitui Central,First line,WHO STAGE 2 ADULT,296,LDL,70.2,157,Active
+134,M,64,Married,Kitui West,First line,WHO STAGE 2 ADULT,NULL,LDL,90,184,Active
+135,M,57,Married,Kitui West,First line,WHO STAGE 2 ADULT,NULL,LDL,50,163,Active
+NULL,F,38,Married,Kitui West,First line,WHO STAGE 2 ADULT,NULL,LDL,84,163,Lost to followup
+137,M,66,Married,Mwingi West,First line,WHO STAGE 2 ADULT,147,LDL,54,156,Active
+138,F,54,Married,Mwingi West,First line,WHO STAGE 2 ADULT,307,LDL,53,170,Active
+139,F,44,Single,Mwingi West,First line,WHO STAGE 2 ADULT,49,LDL,69,159,Active
+140,M,48,Married,Kitui West,First line,WHO STAGE 2 ADULT,NULL,LDL,58,164,Active
+141,F,46,Single,Mwingi West,First line,WHO STAGE 3 ADULT,208,LDL,40,162,Active
+142,F,36,Married,Kitui Rural,First line,WHO STAGE 2 ADULT,268,LDL,68,157,Active
+143,F,47,Single,MWINGI WEST,First line,WHO STAGE 2 ADULT,567,LDL,51.8,163,Active
+144,M,42,Married,Mwingi West,First line,WHO STAGE 2 ADULT,664,LDL,53.6,165,Active
+145,F,59,Married,Mwingi West,First line,WHO STAGE 2 ADULT,158,LDL,69.2,147,Active
+146,F,54,Widowed,Kitui West,First line,WHO STAGE 2 ADULT,247,LDL,40,169,Active
+147,M,58,Married,Kitui West,First line,WHO STAGE 2 ADULT,117,LDL,53,158,Active
+148,F,54,NULL,Kitui West,First line,WHO STAGE 2 ADULT,305,LDL,67,158,Active
+149,M,56,Married,Kitui West,First line,WHO STAGE 2 ADULT,422,LDL,57,173,Active
+150,M,48,Married,Mwingi West,First line,WHO STAGE 3 ADULT,NULL,LDL,85,185,Active
+151,F,43,Married,Mwingi West,First line,WHO STAGE 2 ADULT,406,LDL,64,175,Active
+152,M,9,NULL,Mwingi West,First line,WHO STAGE 2 ADULT,246,LDL,10,78,Active
+153,F,44,Married,Kitui West,First line,WHO STAGE 2 ADULT,246,LDL,48,164,Active
+154,M,16,Never married,Kitui West,First line,WHO STAGE 2 ADULT,1275,LDL,23.3,122,Active
+155,F,42,Divorced,Kitui West,First line,WHO STAGE 2 ADULT,647,LDL,44.5,157,Active
+156,M,46,Married,Kitui West,First line,WHO STAGE 2 ADULT,442,LDL,55,163,Active
+NULL,M,76,NULL,KITUI WEST,NULL,WHO STAGE 2 ADULT,NULL,LDL,49,159,Died
+158,F,46,Married,Kitui West,First line,WHO STAGE 3 ADULT,NULL,LDL,73,152,Active
+NULL,F,58,Widowed,KITUI WEST,First line,WHO STAGE 2 ADULT,565,LDL,57,153,Lost to followup
+161,F,34,Single,Kitui West,First line,WHO STAGE 2 ADULT,504,LDL,56.1,165,Active
+NULL,F,51,Single,Mwingi West,First line,WHO STAGE 3 ADULT,415,LDL,58.9,160,Transfer out
+163,M,50,Married,Kitui Central,First line,WHO STAGE 4 ADULT,526,LDL,80.1,181,Active
+164,F,46,Married,Kitui West,First line,WHO STAGE 2 ADULT,493,HDL,51.6,154,Active
+165,M,20,Single,Kitui West,First line,WHO STAGE 2 ADULT,246,LDL,26.3,124,Active
+166,F,30,Married,Kitui West,First line,WHO STAGE 2 ADULT,NULL,LDL,60,158,Active
+167,M,55,Married,Kitui West,First line,WHO STAGE 3 ADULT,601,HDL,68,170,Active
+168,F,56,Married,Mwingi West,First line,WHO STAGE 3 ADULT,322,HDL,80.4,161,Active
+169,F,50,Widowed,Kitui West,First line,WHO STAGE 3 ADULT,400,LDL,75,161,Active
+170,F,66,Widowed,Kitui West,First line,WHO STAGE 2 ADULT,280,LDL,159,79,Active
+171,F,35,NULL,Kitui West,First line,WHO STAGE 2 ADULT,586,LDL,46,158,Active
+172,F,43,Married,Masinga,First line,WHO STAGE 2 ADULT,461,LDL,59,157,Active
+173,F,46,Single,Kitui West,First line,WHO STAGE 2 ADULT,268,LDL,58.1,161,Active
+174,M,65,Married,Kitui West,First line,WHO STAGE 2 ADULT,214,LDL,61,171,Active
+NULL,F,59,Widowed,Kitui West,First line,WHO STAGE 2 ADULT,366,HDL,64.9,158,Transfer out
+176,M,57,NULL,Kitui West,First line,WHO STAGE 2 ADULT,460,LDL,51.6,179,Active
+177,F,49,Widowed,Kitui West,First line,WHO STAGE 3 ADULT,386,LDL,42,154,Active
+178,F,46,Never married,Kitui West,First line,WHO STAGE 2 ADULT,585,LDL,54.2,160,Active
+179,F,56,Married,Kitui West,First line,WHO STAGE 3 ADULT,150,LDL,153,61,Active
+NULL,F,26,Single,KITUI WEST,NULL,WHO STAGE 2 ADULT,NULL,NULL,57,168,Transfer out
+181,F,26,Married,Kitui West,First line,WHO STAGE 2 ADULT,NULL,HDL,53,153,Active
+182,M,74,Married,Kitui West,First line,WHO STAGE 3 ADULT,899,LDL,50,168,Active
+NULL,M,65,NULL,MWINGI WEST,NULL,WHO STAGE 2 ADULT,129,LDL,74,160,Transfer out
+NULL,F,64,NULL,MWINGI WEST,NULL,WHO STAGE 2 ADULT,358,LDL,76,158,Transfer out
+185,F,40,Married,Kitui West,First line,WHO STAGE 2 ADULT,295,LDL,62,145,Active
+186,F,82,Married,Kitui West,First line,WHO STAGE 3 ADULT,NULL,LDL,52,146,Active
+187,F,55,Widowed,Mwingi West,Second line,WHO STAGE 3 ADULT,246,LDL,54.3,151,Active
+188,F,37,Single,Mwingi West,First line,WHO STAGE 2 ADULT,1022,LDL,76.5,150,Active
+189,F,65,Widowed,Kitui West,First line,WHO STAGE 2 ADULT,246,HDL,44,157,Active
+190,F,47,Single,Kitui West,First line,WHO STAGE 2 ADULT,254,HDL,54,154,Active
+191,M,36,Married,Kitui West,First line,WHO STAGE 2 ADULT,379,LDL,60,167,Active
+192,F,54,Widowed,Kitui West,First line,WHO STAGE 3 ADULT,117,LDL,33,151,Active
+193,F,94,Widowed,Kitui West,First line,WHO STAGE 3 ADULT,206,LDL,147,38,Active
+194,F,43,Widowed,Kitui West,First line,WHO STAGE 2 ADULT,232,LDL,65,156,Active
+195,F,32,Married,Kitui Central,First line,WHO STAGE 2 ADULT,362,LDL,55,150,Active
+196,F,44,Widowed,Kitui West,First line,WHO STAGE 3 ADULT,39,LDL,39,152,Active
+197,F,51,Divorced,Kitui West,First line,WHO STAGE 3 ADULT,181,LDL,60,165,Active
+198,M,46,Married,Kitui Central,First line,WHO STAGE 2 ADULT,NULL,LDL,95,181,Active
+199,F,47,Married,Kitui Central,First line,WHO STAGE 2 ADULT,NULL,LDL,88.6,168,Active
+200,M,59,Married,Kitui West,First line,WHO STAGE 3 ADULT,270,LDL,76,170,Active
+201,F,62,Married,Kitui West,First line,WHO STAGE 3 ADULT,186,LDL,56.3,156,Active
+NULL,F,40,NULL,Kitui Central,First line,WHO STAGE 2 ADULT,NULL,HDL,70.5,148,Lost to followup
+203,F,41,Single,Kitui West,Second line,WHO STAGE 2 ADULT,188,LDL,55.3,155,Active
+NULL,F,46,NULL,KITUI WEST,First line,WHO STAGE 2 ADULT,NULL,LDL,50.4,157,Lost to followup
+205,M,37,Married,Kitui West,First line,WHO STAGE 2 ADULT,573,LDL,64,160,Active
+NULL,F,33,NULL,MWINGI WEST,NULL,WHO STAGE 2 ADULT,NULL,NULL,83.1,163,Transfer out
+207,F,61,Widowed,Kitui West,First line,WHO STAGE 3 ADULT,405,LDL,43,147,Active
+NULL,F,50,NULL,KITUI WEST,First line,WHO STAGE 2 ADULT,231,LDL,41,150,Lost to followup
+211,F,42,Married,Kitui West,First line,WHO STAGE 3 ADULT,239,LDL,164,73,Active
+212,F,66,Widowed,Kitui West,First line,WHO STAGE 2 ADULT,238,LDL,71.6,162,Active
+213,F,55,Married,Kitui Rural,Second line,WHO STAGE 2 ADULT,60,LDL,78,160,Active
+214,M,43,Never married,Kitui West,First line,WHO STAGE 2 ADULT,468,HDL,50,165,Active
+215,F,52,Never married,Kitui West,First line,WHO STAGE 3 ADULT,238,LDL,46,154,Active
+216,F,49,Married,Kitui West,First line,WHO STAGE 2 ADULT,206,LDL,43,148,Active
+217,M,30,Married,Kitui West,First line,WHO STAGE 2 ADULT,NULL,LDL,50,158,Active
+218,F,55,Widowed,Kitui Central,First line,WHO STAGE 2 ADULT,379,LDL,60,160,Active
+NULL,F,44,NULL,MWINGI WEST,NULL,WHO STAGE 2 ADULT,166,LDL,78,159,Died
+220,F,56,Married,Kitui West,First line,WHO STAGE 3 ADULT,249,LDL,75,165,Active
+221,F,12,Never married,Kitui West,Second line,WHO STAGE 1 ADULT,1471,LDL,8,101,Active
+222,M,50,Divorced,Kitui West,First line,WHO STAGE 2 ADULT,348,LDL,68.5,173,Active
+223,M,51,Married,Kitui West,First line,WHO STAGE 3 ADULT,427,LDL,68.8,172,Active
+224,F,22,Never married,Kitui West,Second line,WHO STAGE 3 ADULT,61,LDL,24,127,Active
+225,M,13,NULL,Kitui West,First line,WHO STAGE 4 ADULT,482,LDL,2.3,86,Active
+226,F,23,Never married,Mwingi West,First line,WHO STAGE 3 ADULT,442,LDL,29.4,140,Active
+NULL,F,66,Married,Kitui West,First line,WHO STAGE 3 ADULT,457,LDL,49,151,Died
+NULL,F,56,NULL,KITUI WEST,First line,WHO STAGE 3 ADULT,363,LDL,58,165,Died
+229,F,41,Married,Mwingi West,First line,WHO STAGE 2 ADULT,503,LDL,61,168,Active
+NULL,M,54,Married,Kitui West,First line,WHO STAGE 2 ADULT,126,LDL,66,170,Died
+231,F,42,Married,Mwingi West,First line,WHO STAGE 2 ADULT,524,LDL,64,145,Active
+NULL,F,37,Never married,Kitui Central,First line,WHO STAGE 2 ADULT,548,LDL,70,158,Transfer out
+233,F,38,Married,Mwingi West,First line,WHO STAGE 2 ADULT,548,LDL,59,149,Active
+NULL,F,33,NULL,KITUI WEST,First line,WHO STAGE 2 ADULT,503,LDL,39.4,155,Died
+253,F,57,Married,Yatta,First line,WHO STAGE 2 ADULT,396,LDL,97,158,Active
+254,F,42,Married,Kitui Central,First line,WHO STAGE 2 ADULT,426,LDL,48.3,153,Active
+255,M,41,Married,Kitui West,First line,WHO STAGE 2 ADULT,468,LDL,62,156,Active
+NULL,F,76,NULL,KITUI WEST,NULL,WHO STAGE 3 ADULT,632,LDL,159,53,Transfer out
+276,M,34,Married,Kitui West,First line,WHO STAGE 3 ADULT,NULL,LDL,65,180,Active
+287,F,70,Widowed,Kitui West,Second line,WHO STAGE 3 ADULT,160,LDL,71,166,Active
+297,F,51,Married,Kitui West,First line,WHO STAGE 2 ADULT,345,LDL,44.8,151,Active
+298,M,50,Married,Masinga,First line,WHO STAGE 3 ADULT,284,LDL,58,167,Active
+304,M,23,Never married,Kitui West,First line,WHO STAGE 2 ADULT,1374,LDL,25,140,Active
+305,F,40,Married,Yatta,First line,WHO STAGE 3 ADULT,645,HDL,66,156,Active
+306,F,55,Married,Kitui West,First line,WHO STAGE 3 ADULT,348,LDL,62.3,155,Active
+307,F,45,Married,Kitui West,First line,WHO STAGE 2 ADULT,526,LDL,62.2,154,Active
+308,F,12,Never married,Kitui West,First line,WHO STAGE 1 ADULT,1618,LDL,13.8,103,Active
+309,F,36,Married,Kitui West,First line,WHO STAGE 2 ADULT,371,LDL,32.2,150,Active
+310,F,34,NULL,Kitui West,First line,WHO STAGE 2 ADULT,948,HDL,49,153,Active
+322,F,10,Never married,Kitui West,First line,WHO STAGE 2 ADULT,562,LDL,15.4,103,Active
+323,M,54,Married,Mwingi West,First line,WHO STAGE 2 ADULT,593,LDL,79,160,Active
+324,F,42,Married,Mwingi West,First line,WHO STAGE 2 ADULT,291,LDL,69.3,158,Active
+325,F,69,Married,Mwingi West,First line,WHO STAGE 2 ADULT,568,LDL,67.8,158,Active
+326,F,64,Married,Kitui West,First line,WHO STAGE 4 ADULT,249,LDL,54,156,Active
+NULL,F,27,Never married,MWINGI WEST,NULL,WHO STAGE 3 ADULT,472,HDL,32,158,Transfer out
+328,F,41,Widowed,Kitui West,First line,WHO STAGE 2 ADULT,234,LDL,68,162,Active
+329,F,40,Widowed,Kitui West,First line,WHO STAGE 2 ADULT,621,LDL,64,158,Active
+330,F,49,Married,Kitui West,First line,WHO STAGE 2 ADULT,142,LDL,55,163,Active
+331,F,53,Married,Kitui West,First line,WHO STAGE 2 ADULT,1000,LDL,69.7,168,Active
+332,M,66,Married,Mwingi West,First line,WHO STAGE 2 ADULT,103,LDL,59.4,176,Active
+333,F,69,Widowed,Kitui West,First line,WHO STAGE 4 ADULT,116,HDL,47,142,Active
+NULL,M,32,Married,Kitui West,First line,WHO STAGE 2 ADULT,NULL,NULL,60,167,Transfer out
+335,F,44,Married,Kitui Rural,First line,WHO STAGE 2 ADULT,683,LDL,74,169,Active
+336,M,62,Married,Kitui West,First line,WHO STAGE 3 ADULT,594,LDL,48,172,Active
+337,F,51,Married,Kitui West,First line,WHO STAGE 3 ADULT,263,LDL,50,154,Active
+338,F,44,Married,Kitui West,First line,WHO STAGE 2 ADULT,214,LDL,65,160,Active
+343,F,47,Married,Mwingi West,First line,WHO STAGE 2 ADULT,721,LDL,69,164,Active
+344,M,36,Never married,Kitui West,First line,WHO STAGE 2 ADULT,329,LDL,57,171,Active
+346,F,56,Widowed,Kitui West,First line,WHO STAGE 2 ADULT,NULL,LDL,61,165,Active
+NULL,M,74,NULL,KITUI WEST,NULL,WHO STAGE 4 ADULT,NULL,NULL,47,174,Others
+355,M,49,Married,Mwingi West,First line,WHO STAGE 3 ADULT,313,LDL,76,172,Active
+359,F,46,Married,Mwingi West,First line,WHO STAGE 3 ADULT,564,LDL,48,165,Active
+360,M,56,Married,Kitui West,First line,WHO STAGE 3 ADULT,766,LDL,65.3,177,Active
+361,F,62,Widowed,Kitui West,First line,WHO STAGE 2 ADULT,183,LDL,71,158,Active
+362,F,36,Never married,Kitui West,First line,WHO STAGE 2 ADULT,365,LDL,61,163,Active
+363,F,42,Married,Kitui West,First line,WHO STAGE 2 ADULT,190,LDL,48,147,Active
+364,F,46,Married,Kitui Central,First line,WHO STAGE 2 ADULT,336,LDL,49.4,167,Active
+NULL,F,30,NULL,KITUI WEST,NULL,WHO STAGE 2 ADULT,251,LDL,65,159,Transfer out
+382,F,38,Married,Kitui West,First line,WHO STAGE 2 ADULT,426,LDL,57.6,146,Active
+383,F,44,Married,Kitui West,First line,WHO STAGE 2 ADULT,226,LDL,58.6,162,Active
+384,F,60,Married,Mwingi West,First line,WHO STAGE 2 ADULT,521,LDL,70,168,Active
+385,F,54,Married,Kitui West,First line,WHO STAGE 2 ADULT,606,LDL,62.7,150,Active
+386,F,66,Married,Kitui Central,First line,WHO STAGE 2 ADULT,67,LDL,57.2,157,Active
+387,F,65,Widowed,Kitui West,First line,WHO STAGE 4 ADULT,119,LDL,69,162,Active
+388,F,75,Widowed,Kitui West,First line,WHO STAGE 2 ADULT,176,LDL,65.5,156,Active
+389,F,44,Married,Kitui West,First line,WHO STAGE 2 ADULT,542,LDL,66,163,Active
+390,F,20,Never married,Kitui West,First line,WHO STAGE 2 ADULT,NULL,LDL,56,152,Active
+NULL,M,21,Never married,KITUI WEST,Second line,WHO STAGE 1 ADULT,553,HDL,34.1,142,Lost to followup
+392,M,19,Never married,Kitui West,Second line,WHO STAGE 3 ADULT,166,HDL,15.3,100,Active
+393,M,13,Never married,Kitui West,First line,WHO STAGE 3 ADULT,1384,HDL,11.7,77,Active
+394,F,68,Widowed,Kitui West,First line,WHO STAGE 3 ADULT,324,LDL,65,159,Active
+395,M,55,Married,Kitui West,First line,WHO STAGE 2 ADULT,294,LDL,72,170,Active
+396,F,64,Widowed,Kitui West,First line,WHO STAGE 3 ADULT,736,LDL,48,164,Active
+397,F,52,Married,Mwingi West,First line,WHO STAGE 2 ADULT,449,LDL,65,156,Active
+398,F,37,Married,Mwingi Central,First line,WHO STAGE 2 ADULT,424,LDL,82,159,Active
+399,M,66,Married,Kitui West,First line,WHO STAGE 3 ADULT,438,LDL,66,173,Active
+400,F,58,Never married,Kitui West,First line,WHO STAGE 3 ADULT,282,LDL,57,162,Active
+401,M,24,Never married,Kitui West,First line,WHO STAGE 3 ADULT,307,LDL,16,110,Active
+402,F,37,NULL,Kitui West,First line,WHO STAGE 2 ADULT,426,LDL,50.6,151,Active
+403,F,43,Married,Kitui West,First line,WHO STAGE 2 ADULT,746,LDL,46,160,Active
+NULL,M,24,Single,KITUI WEST,First line,WHO STAGE 3 ADULT,958,LDL,20,101,Lost to followup
+NULL,F,26,Single,Kitui West,First line,WHO STAGE 3 ADULT,574,HDL,23.3,120,Transfer out
+416,F,54,Married,Mwingi Central,First line,WHO STAGE 3 ADULT,1046,LDL,53,164,Active
+NULL,F,52,NULL,KITUI WEST,NULL,WHO STAGE 2 ADULT,256,NULL,61.6,156,Others
+418,F,38,Separated,Kitui West,First line,WHO STAGE 2 ADULT,NULL,LDL,56.2,158,Active
+419,F,24,Single,Kitui West,First line,WHO STAGE 3 ADULT,729,LDL,41,153,Active
+456,M,22,Single,Kitui West,First line,WHO STAGE 3 ADULT,109,LDL,24,110,Active
+457,F,51,Widowed,Kitui West,First line,WHO STAGE 2 ADULT,357,LDL,48,158,Active
+NULL,M,63,NULL,KITUI WEST,NULL,WHO STAGE 3 ADULT,134,LDL,60.8,169,Died
+459,F,45,Married,Kitui West,First line,WHO STAGE 2 ADULT,172,LDL,48,157,Active
+460,F,56,Married,Mwingi Central,First line,WHO STAGE 2 ADULT,831,LDL,61,163,Active
+461,F,70,Widowed,Kitui West,First line,WHO STAGE 3 ADULT,697,LDL,50,150,Active
+462,F,38,Single,Mwingi Central,First line,WHO STAGE 2 ADULT,463,LDL,60,164,Active
+463,F,56,Widowed,Mwingi West,First line,WHO STAGE 2 ADULT,380,LDL,57,168,Active
+464,F,42,Single,Mwingi West,First line,WHO STAGE 2 ADULT,328,LDL,51.6,158,Active
+465,F,49,Married,Kitui Central,First line,WHO STAGE 2 ADULT,346,LDL,67,158,Active
+466,M,55,NULL,Kitui West,First line,WHO STAGE 2 ADULT,150,LDL,52,169,Active
+467,F,60,Widowed,Kitui West,First line,WHO STAGE 3 ADULT,NULL,LDL,74,160,Active
+NULL,F,25,Single,Kitui West,First line,WHO STAGE 2 ADULT,405,LDL,26,120,Transfer out
+469,F,64,Married,Kitui West,First line,WHO STAGE 3 ADULT,249,LDL,52,158,Active
+470,M,48,Married,Kitui West,First line,WHO STAGE 2 ADULT,477,LDL,61,175,Active
+471,F,53,Widowed,Kitui West,First line,WHO STAGE 2 ADULT,426,LDL,57.2,163,Active
+472,M,56,Married,Mwingi West,First line,WHO STAGE 2 ADULT,465,LDL,58.9,171,Active
+473,M,61,Married,Kitui West,First line,WHO STAGE 3 ADULT,486,LDL,64,170,Active
+474,M,51,Married,Kitui West,First line,WHO STAGE 3 ADULT,563,LDL,47,158,Active
+475,F,45,Married,Kitui West,First line,WHO STAGE 3 ADULT,421,LDL,49,163,Active
+476,M,52,Married,Kitui West,First line,WHO STAGE 3 ADULT,193,LDL,57.7,165,Active
+477,F,55,Widowed,Kitui West,First line,WHO STAGE 2 ADULT,1333,LDL,52.6,147,Active
+478,M,58,Widowed,Kitui West,First line,WHO STAGE 3 ADULT,468,LDL,51,156,Active
+479,M,89,Married,Kitui West,First line,WHO STAGE 2 ADULT,426,LDL,73.6,175,Active
+480,M,72,Married,Kitui West,First line,WHO STAGE 3 ADULT,554,LDL,50,163,Active
+481,F,45,Married,Kitui West,First line,WHO STAGE 2 ADULT,426,LDL,59,164,Active
+NULL,F,62,NULL,KITUI WEST,First line,WHO STAGE 4 ADULT,135,LDL,53.7,158,Died
+483,F,59,Married,Kitui West,First line,WHO STAGE 3 ADULT,285,LDL,54,160,Active
+484,F,45,Married,Mwingi Central,First line,WHO STAGE 2 ADULT,255,LDL,59.3,158,Active
+485,F,60,Widowed,Kitui West,First line,WHO STAGE 3 ADULT,885,LDL,59,160,Active
+NULL,F,40,Married,Kitui West,First line,WHO STAGE 2 ADULT,414,HDL,46.6,161,Died
+487,M,82,Married,Kitui West,First line,WHO STAGE 2 ADULT,275,LDL,60,165,Active
+488,M,64,Married,Kitui West,First line,WHO STAGE 2 ADULT,315,LDL,44.1,158,Active
+489,M,66,Married,Kitui West,First line,WHO STAGE 2 ADULT,268,LDL,55,168,Active
+490,F,54,Married,Mwingi West,First line,WHO STAGE 3 ADULT,426,LDL,72,165,Active
+491,M,69,Married,Kitui West,First line,WHO STAGE 2 ADULT,555,LDL,46,163,Active
+492,M,59,Married,Kitui West,First line,WHO STAGE 3 ADULT,318,LDL,57,171,Active
+493,F,50,Widowed,Mwingi West,First line,WHO STAGE 2 ADULT,326,LDL,69,165,Active
+494,F,51,Married,Kitui West,First line,WHO STAGE 2 ADULT,502,LDL,58.1,165,Active
+495,F,33,Married,Kitui West,First line,WHO STAGE 3 ADULT,426,LDL,36.4,155,Active
+496,F,49,Married,Kitui West,First line,WHO STAGE 3 ADULT,219,LDL,43,158,Active
+501,F,38,Married,Mwingi West,First line,WHO STAGE 3 ADULT,307,LDL,53.5,163,Active
+517,F,50,Widowed,Kitui West,First line,WHO STAGE 2 ADULT,290,HDL,69,170,Active
+534,M,19,Single,Kitui West,First line,WHO STAGE 3 ADULT,618,LDL,18,146,Active
+535,F,55,Married,Kitui West,First line,WHO STAGE 3 ADULT,136,LDL,65,158,Active
+536,M,61,NULL,Kitui West,First line,WHO STAGE 3 ADULT,348,LDL,50,163,Active
+NULL,F,42,Widowed,KITUI WEST,Second line,WHO STAGE 3 ADULT,521,HDL,47,160,Others
+538,M,56,Married,Kitui West,First line,WHO STAGE 3 ADULT,60,LDL,68,167,Active
+NULL,F,18,Single,KITUI WEST,Second line,WHO STAGE 3 ADULT,400,HDL,33,139,Transfer out
+540,F,51,Married,Kitui West,First line,WHO STAGE 3 ADULT,173,LDL,66,142,Active
+NULL,F,55,Widowed,KITUI WEST,NULL,WHO STAGE 3 ADULT,224,HDL,49,159,Died
+544,F,70,Widowed,Kitui West,First line,WHO STAGE 2 ADULT,371,LDL,46.2,149,Active
+567,M,18,Never married,Kitui West,First line,WHO STAGE 3 ADULT,608,HDL,24.6,125,Active
+568,F,33,Married,Mwingi West,First line,WHO STAGE 2 ADULT,469,LDL,55,164,Active
+569,F,58,Single,Kitui West,First line,WHO STAGE 2 ADULT,251,LDL,59.1,160,Active
+570,F,51,Married,Kitui West,First line,WHO STAGE 2 ADULT,393,LDL,77.6,152,Active
+571,M,56,Widowed,Kitui West,First line,WHO STAGE 3 ADULT,NULL,HDL,53,167,Active
+572,F,49,Divorced,Mwingi West,First line,WHO STAGE 3 ADULT,279,LDL,48.2,159,Active
+576,F,59,Widowed,Mwingi West,First line,WHO STAGE 3 ADULT,512,LDL,45,154,Active
+592,M,63,Married,Kitui West,First line,WHO STAGE 3 ADULT,407,LDL,67,172,Active
+593,F,50,Widowed,Kitui West,First line,WHO STAGE 2 ADULT,NULL,LDL,56.2,158,Active
+594,F,49,Married,Kitui West,First line,WHO STAGE 3 ADULT,410,LDL,45,159,Active
+595,F,49,Married,Kitui West,First line,WHO STAGE 3 ADULT,570,LDL,50,159,Active
+596,F,33,Married,Kitui West,First line,WHO STAGE 2 ADULT,52,LDL,72,162,Active
+597,F,72,Married,Kitui West,First line,WHO STAGE 2 ADULT,426,LDL,52.8,152,Active
+598,F,58,Married,Mwingi West,First line,WHO STAGE 3 ADULT,338,LDL,58,160,Active
+599,M,49,Married,Mwingi West,First line,WHO STAGE 3 ADULT,220,LDL,60,156,Active
+600,F,47,Married,Kitui West,First line,WHO STAGE 2 ADULT,26,LDL,41.2,152,Active
+601,F,39,Married,Kitui West,First line,WHO STAGE 2 ADULT,426,LDL,64.8,163,Active
+604,F,19,Single,Kitui West,First line,WHO STAGE 3 ADULT,779,HDL,15,114,Active
+622,F,48,Single,Kitui West,First line,WHO STAGE 2 ADULT,NULL,HDL,45,148,Active
+NULL,F,35,Single,Mwingi West,First line,WHO STAGE 2 ADULT,NULL,LDL,76,166,Lost to followup
+624,F,41,Married,Kitui West,First line,WHO STAGE 2 ADULT,534,LDL,41,147,Active
+625,F,49,Never married,Kitui West,First line,WHO STAGE 3 ADULT,663,LDL,57,160,Active
+NULL,M,49,NULL,KITUI WEST,NULL,WHO STAGE 3 ADULT,NULL,NULL,39.9,156,Others
+627,F,17,Single,Kitui West,First line,WHO STAGE 1 ADULT,684,HDL,20.2,116,Active
+628,M,71,Married,Mwingi West,First line,WHO STAGE 3 ADULT,145,LDL,67,168,Active
+629,F,50,Widowed,Kitui West,First line,WHO STAGE 2 ADULT,158,LDL,56,158,Active
+630,F,38,Single,Kitui West,First line,WHO STAGE 2 ADULT,600,LDL,54,155,Active
+631,M,56,Married,Kitui West,First line,WHO STAGE 3 ADULT,428,LDL,79,178,Active
+632,F,46,Married,Kitui West,First line,WHO STAGE 3 ADULT,408,LDL,68,159,Active
+633,M,55,Married,Kitui West,First line,WHO STAGE 4 ADULT,70,LDL,59,170,Active
+634,F,49,Married,Kitui West,First line,WHO STAGE 3 ADULT,221,LDL,49,154,Active
+635,M,63,Married,Kitui East,First line,WHO STAGE 2 ADULT,240,LDL,57,169,Active
+636,F,51,Married,Kitui East,First line,WHO STAGE 3 ADULT,182,LDL,47,155,Active
+637,F,37,Married,Mwingi Central,First line,WHO STAGE 1 ADULT,NULL,LDL,68.2,156,Active
+638,M,60,Married,Kitui West,First line,WHO STAGE 3 ADULT,NULL,LDL,45,159,Active
+639,M,43,Married,Kitui West,First line,WHO STAGE 3 ADULT,NULL,LDL,45.3,160,Active
+NULL,M,70,Divorced,KITUI WEST,NULL,WHO STAGE 1 ADULT,NULL,LDL,42.1,167,Transfer out
+NULL,F,50,Single,Kitui West,First line,WHO STAGE 2 ADULT,213,LDL,38,137,Died
+642,F,34,NULL,Kitui West,First line,WHO STAGE 2 ADULT,150,LDL,81,163,Active
+643,F,54,Married,Kitui West,First line,WHO STAGE 3 ADULT,128,LDL,41,145,Active
+644,F,54,Married,Kitui West,First line,WHO STAGE 1 ADULT,764,LDL,45,150,Active
+645,F,56,Married,Kitui West,First line,WHO STAGE 3 ADULT,392,LDL,48,157,Active
+646,F,58,Widowed,Mwingi West,First line,WHO STAGE 1 ADULT,NULL,LDL,60.2,152,Active
+647,M,53,Married,Kitui West,First line,WHO STAGE 1 ADULT,950,LDL,56,156,Active
+648,F,50,Married,Kitui West,First line,WHO STAGE 1 ADULT,253,LDL,51,164,Active
+649,F,48,Married,Kitui West,First line,WHO STAGE 1 ADULT,243,LDL,55,163,Active
+666,F,52,Married,Kitui West,First line,WHO STAGE 3 ADULT,333,LDL,167,42,Active
+NULL,F,81,NULL,Kitui West,First line,WHO STAGE 3 ADULT,447,LDL,45,157,Transfer out
+668,F,67,Widowed,Kitui West,First line,WHO STAGE 3 ADULT,345,LDL,76,170,Active
+669,F,59,Widowed,Mwingi West,First line,WHO STAGE 2 ADULT,344,LDL,43,158,Active
+670,F,57,Married,Kitui West,First line,WHO STAGE 1 ADULT,542,LDL,58,160,Active
+671,M,50,Married,Kitui West,First line,WHO STAGE 3 ADULT,234,LDL,54,160,Active
+672,F,25,Single,Kitui Central,First line,WHO STAGE 1 ADULT,NULL,LDL,60.7,162,Active
+673,F,45,Married,Kitui West,First line,WHO STAGE 2 ADULT,NULL,LDL,53.7,153,Active
+679,M,11,Single,Kitui West,First line,WHO STAGE 1 ADULT,NULL,LDL,12,82,Active
+680,M,53,Married,Kitui West,First line,WHO STAGE 4 ADULT,NULL,LDL,46,165,Active
+681,F,72,Widowed,Mwingi West,First line,WHO STAGE 3 ADULT,140,LDL,58,161,Active
+682,F,58,Married,Kitui West,First line,WHO STAGE 4 ADULT,425,LDL,62,155,Active
+683,F,52,Widowed,Kitui West,First line,WHO STAGE 3 ADULT,504,LDL,44,150,Active
+684,F,41,Married,Kitui Central,First line,WHO STAGE 1 ADULT,NULL,LDL,64.7,164,Active
+NULL,F,53,Married,Kitui West,First line,WHO STAGE 3 ADULT,283,LDL,44,165,Died
+686,F,48,Married,Kitui West,First line,WHO STAGE 1 ADULT,934,LDL,52,159,Active
+687,F,45,Widowed,Mwingi West,First line,WHO STAGE 1 ADULT,357,HDL,55,160,Active
+688,F,35,Married,Kitui West,First line,WHO STAGE 1 ADULT,432,LDL,32,148,Active
+689,M,59,Married,Kitui West,First line,WHO STAGE 1 ADULT,289,LDL,160,63,Active
+690,F,45,Married,Kitui West,First line,WHO STAGE 2 ADULT,62,LDL,50.1,165,Active
+691,F,44,Married,Kitui West,Second line,WHO STAGE 3 ADULT,224,LDL,55,140,Active
+NULL,F,46,NULL,KITUI WEST,NULL,WHO STAGE 1 ADULT,NULL,LDL,52.2,152,Transfer out
+693,M,57,Married,Mwingi West,First line,WHO STAGE 1 ADULT,63,LDL,75,158,Active
+694,F,53,Married,Kitui West,First line,WHO STAGE 3 ADULT,148,LDL,52,158,Active
+695,M,56,Married,Kitui West,First line,WHO STAGE 3 ADULT,NULL,LDL,60,160,Active
+NULL,F,60,NULL,KITUI WEST,Second line,WHO STAGE 3 ADULT,916,LDL,59,163,Died
+697,F,42,Married,Mwingi West,First line,WHO STAGE 3 ADULT,472,LDL,42,155,Active
+698,F,65,Married,Kitui West,First line,WHO STAGE 4 ADULT,704,LDL,152,45,Active
+699,F,44,Married,Kitui West,First line,WHO STAGE 3 ADULT,302,LDL,72,162,Active
+700,M,65,Married,Kitui West,First line,WHO STAGE 3 ADULT,763,HDL,175,49,Active
+NULL,F,35,NULL,KITUI WEST,NULL,WHO STAGE 2 ADULT,NULL,LDL,54.7,163,Transfer out
+702,F,60,Widowed,Kitui West,First line,WHO STAGE 3 ADULT,413,LDL,63,158,Active
+703,M,57,Married,Kitui West,First line,WHO STAGE 3 ADULT,NULL,LDL,54,169,Active
+704,F,49,Married,Kitui West,First line,WHO STAGE 2 ADULT,NULL,LDL,50,155,Active
+705,M,57,Married,Kitui West,First line,WHO STAGE 3 ADULT,NULL,LDL,46.4,164,Active
+706,F,48,Married,Kitui West,First line,WHO STAGE 2 ADULT,509,LDL,158,72,Active
+707,F,49,Married,Mwingi West,First line,WHO STAGE 3 ADULT,231,LDL,159,50,Active
+708,F,54,Widowed,Kitui West,First line,WHO STAGE 3 ADULT,NULL,LDL,156,46,Active
+723,F,59,Married,Kitui West,First line,WHO STAGE 3 ADULT,434,LDL,56,164,Active
+724,F,35,Married,Mwingi Central,First line,WHO STAGE 3 ADULT,813,LDL,63,158,Active
+725,M,51,Married,Mwingi West,First line,WHO STAGE 3 ADULT,617,LDL,74,172,Active
+726,M,66,Married,Kitui West,First line,WHO STAGE 3 ADULT,NULL,LDL,75,180,Active
+727,F,71,Widowed,Kitui West,First line,WHO STAGE 3 ADULT,764,HDL,49,155,Active
+728,F,52,Married,Kitui West,First line,WHO STAGE 3 ADULT,456,LDL,56,157,Active
+NULL,M,64,Married,KITUI WEST,NULL,WHO STAGE 3 ADULT,126,LDL,57,168,Died
+730,F,23,Single,Kitui West,First line,WHO STAGE 3 ADULT,762,HDL,135,13,Active
+731,F,64,Widowed,Mwingi West,First line,WHO STAGE 2 ADULT,256,LDL,65,156,Active
+732,F,59,Married,Kitui West,First line,WHO STAGE 1 ADULT,515,LDL,51,160,Active
+733,F,56,Married,Kitui West,First line,WHO STAGE 1 ADULT,568,LDL,156,55,Active
+734,F,36,Widowed,Kitui West,First line,WHO STAGE 3 ADULT,NULL,LDL,51.7,162,Active
+735,M,22,Single,Kitui West,First line,WHO STAGE 3 ADULT,85,HDL,33,160,Active
+736,F,58,Widowed,Kitui West,First line,WHO STAGE 3 ADULT,85,LDL,37,150,Active
+737,F,47,Married,Kitui West,First line,WHO STAGE 1 ADULT,286,LDL,47,160,Active
+NULL,F,44,Divorced,KITUI WEST,NULL,WHO STAGE 1 ADULT,NULL,NULL,61,160,Transfer out
+739,F,58,Married,Kitui West,First line,WHO STAGE 3 ADULT,202,HDL,57,166,Active
+740,M,66,Married,Kitui West,First line,WHO STAGE 3 ADULT,261,LDL,59,159,Active
+NULL,F,37,Single,Kitui West,Second line,WHO STAGE 1 ADULT,619,LDL,44,153,Transfer out
+742,F,43,Married,Kitui West,First line,WHO STAGE 1 ADULT,326,LDL,50,152,Active
+743,M,24,Single,Masinga,First line,WHO STAGE 3 ADULT,388,LDL,25,162,Active
+744,F,49,Single,Kitui Rural,First line,WHO STAGE 2 ADULT,144,LDL,52,152,Active
+745,F,64,Married,Kitui West,First line,WHO STAGE 1 ADULT,339,LDL,66,153,Active
+NULL,F,48,Married,KITUI WEST,First line,WHO STAGE 3 ADULT,99,LDL,51,152,Transfer out
+747,F,42,Married,Kitui West,First line,WHO STAGE 1 ADULT,398,LDL,69,163,Active
+NULL,M,26,Single,Kitui West,First line,WHO STAGE 1 ADULT,448,LDL,30,160,Transfer out
+749,F,67,Divorced,Kitui West,First line,WHO STAGE 3 ADULT,95,LDL,70,155,Active
+750,F,58,Widowed,Kitui West,First line,WHO STAGE 3 ADULT,406,LDL,168,72,Active
+751,F,48,Married,Kitui West,First line,WHO STAGE 3 ADULT,NULL,LDL,62,165,Active
+752,F,52,Married,Kitui West,First line,WHO STAGE 2 ADULT,318,LDL,56,162,Active
+753,F,76,Married,Kitui West,First line,WHO STAGE 3 ADULT,82,LDL,45,150,Active
+754,F,50,Married,Kitui West,First line,WHO STAGE 2 ADULT,493,LDL,58,153,Active
+755,M,61,Married,Kitui West,First line,WHO STAGE 3 ADULT,93,LDL,59,172,Active
+756,M,66,Married,Kitui West,First line,WHO STAGE 1 ADULT,426,LDL,76,169,Active
+757,F,51,Married,Kitui West,First line,WHO STAGE 3 ADULT,178,LDL,160,65,Active
+NULL,F,50,Married,KITUI WEST,First line,WHO STAGE 3 ADULT,390,LDL,154,52,Transfer out
+759,F,38,Married,Kitui West,First line,WHO STAGE 1 ADULT,372,LDL,68,160,Active
+760,F,42,Single,Kitui West,First line,WHO STAGE 3 ADULT,209,LDL,39,154,Active
+762,M,62,Married,Kitui West,First line,WHO STAGE 3 ADULT,720,LDL,64,157,Active
+763,M,62,Married,Kitui West,First line,WHO STAGE 2 ADULT,365,HDL,68,170,Active
+764,F,52,Married,Mwingi West,First line,WHO STAGE 1 ADULT,287,LDL,71,168,Active
+765,F,35,Married,Mwingi West,First line,WHO STAGE 3 ADULT,NULL,LDL,60,160,Active
+766,F,55,Married,Kitui West,First line,WHO STAGE 2 ADULT,204,LDL,51,160,Active
+767,F,61,Married,Kitui West,First line,WHO STAGE 2 ADULT,536,LDL,51,160,Active
+768,F,54,Widowed,Kitui West,First line,WHO STAGE 2 ADULT,630,LDL,54.5,165,Active
+769,M,68,Married,Kitui Rural,First line,WHO STAGE 1 ADULT,798,LDL,56,178,Active
+770,F,37,Married,Kitui West,First line,WHO STAGE 3 ADULT,NULL,HDL,156,50.5,Active
+NULL,F,31,Single,KITUI WEST,First line,WHO STAGE 1 ADULT,20,HDL,39,147,Transfer out
+777,F,56,Married,Mwingi Central,First line,WHO STAGE 2 ADULT,127,LDL,64,161,Active
+778,F,48,Married,Kitui West,First line,WHO STAGE 4 ADULT,NULL,LDL,76.2,158,Active
+779,F,46,Married,Kitui West,First line,WHO STAGE 1 ADULT,235,LDL,69,161,Active
+780,F,57,Widowed,Kitui West,First line,WHO STAGE 1 ADULT,455,LDL,58,168,Active
+781,F,66,Divorced,Kitui West,First line,WHO STAGE 2 ADULT,135,LDL,56,156,Active
+NULL,F,63,Married,KITUI WEST,First line,WHO STAGE 1 ADULT,419,LDL,49,163,Transfer out
+NULL,F,30,Single,KITUI WEST,First line,WHO STAGE 2 ADULT,NULL,NULL,38,150,Transfer out
+784,F,31,Divorced,Kitui West,First line,WHO STAGE 1 ADULT,981,LDL,50,153,Active
+785,F,55,Widowed,Kitui West,First line,WHO STAGE 1 ADULT,469,LDL,54.5,148,Active
+786,F,36,Single,Kitui West,First line,WHO STAGE 1 ADULT,276,LDL,63,156,Active
+787,M,46,Married,Kitui West,First line,WHO STAGE 1 ADULT,NULL,LDL,76.8,178,Active
+788,F,50,Married,Mwingi West,First line,WHO STAGE 3 ADULT,312,LDL,79.5,160,Active
+789,F,71,Single,Kitui West,First line,WHO STAGE 1 ADULT,NULL,LDL,50.8,152,Active
+NULL,F,62,Married,Kitui Central,First line,WHO STAGE 1 ADULT,406,HDL,77,150,Transfer out
+791,F,60,Married,Mwingi Central,First line,WHO STAGE 1 ADULT,335,LDL,74,148,Active
+792,F,56,Married,Kitui West,First line,WHO STAGE 1 ADULT,409,LDL,63,165,Active
+793,F,50,NULL,Kitui West,First line,WHO STAGE 2 ADULT,NULL,LDL,50,160,Active
+807,F,62,Married,Kitui Central,First line,WHO STAGE 1 ADULT,240,LDL,74,157,Active
+808,F,74,Married,Kitui West,Second line,WHO STAGE 2 ADULT,236,HDL,48,165,Active
+809,F,52,Single,Kitui West,First line,WHO STAGE 1 ADULT,135,LDL,64.6,154,Active
+810,M,20,Single,Kitui West,First line,WHO STAGE 2 ADULT,251,LDL,23.5,129,Active
+811,F,38,Widowed,Mwingi West,First line,WHO STAGE 1 ADULT,393,LDL,65.4,153,Active
+812,F,59,Widowed,Kitui West,First line,WHO STAGE 1 ADULT,298,LDL,150,49,Active
+813,F,43,Married,Kitui West,First line,WHO STAGE 1 ADULT,589,LDL,82,164,Active
+814,F,29,Married,Kitui West,First line,WHO STAGE 2 ADULT,NULL,LDL,63,156,Active
+815,F,67,Single,Kitui West,First line,WHO STAGE 1 ADULT,NULL,LDL,65,159,Active
+NULL,M,57,Married,KITUI WEST,NULL,WHO STAGE 3 ADULT,NULL,LDL,68,175,Transfer out
+817,M,77,Married,Kitui West,First line,WHO STAGE 1 ADULT,NULL,LDL,64,166,Active
+818,F,57,Single,Kitui West,First line,WHO STAGE 1 ADULT,980,LDL,42.6,142,Active
+NULL,M,60,NULL,KITUI WEST,First line,WHO STAGE 1 ADULT,90,LDL,58,171,Transfer out
+820,F,75,Married,Kitui West,First line,WHO STAGE 1 ADULT,NULL,HDL,44,154,Active
+821,F,35,Married,Kitui West,First line,WHO STAGE 1 ADULT,NULL,LDL,69,155,Active
+822,F,57,Widowed,Kitui West,First line,WHO STAGE 3 ADULT,145,HDL,44,156,Active
+823,F,18,Single,Kitui West,First line,WHO STAGE 1 ADULT,674,LDL,16,100,Active
+824,F,44,Married,Kitui West,First line,WHO STAGE 1 ADULT,283,LDL,52,160,Active
+NULL,M,15,Single,Kitui West,Second line,WHO STAGE 1 ADULT,NULL,LDL,8,24,Transfer out
+841,F,13,Single,Kitui West,Second line,WHO STAGE 1 ADULT,628,LDL,12,64,Active
+864,M,12,Single,Kitui West,First line,WHO STAGE 3 ADULT,405,LDL,18,110,Active
+NULL,M,72,NULL,KITUI WEST,NULL,NULL,NULL,NULL,NULL,NULL,Others
+871,F,44,Married,Kitui West,First line,WHO STAGE 2 ADULT,457,HDL,64,164,Active
+872,M,18,Single,Kitui West,First line,WHO STAGE 1 ADULT,55,LDL,12,110,Active
+873,F,40,Married,Kitui West,First line,WHO STAGE 1 ADULT,335,LDL,44,154,Active
+874,F,48,Married,Kitui West,First line,WHO STAGE 1 ADULT,NULL,LDL,70,145,Active
+875,M,54,Married,Kitui West,First line,WHO STAGE 1 ADULT,NULL,LDL,51.7,170,Active
+876,F,56,Widowed,Mwingi West,First line,WHO STAGE 1 ADULT,372,HDL,65,159,Active
+877,F,53,Divorced,Kitui West,First line,WHO STAGE 3 ADULT,122,HDL,63,160,Active
+NULL,F,41,Married,Kitui Central,First line,WHO STAGE 1 ADULT,NULL,LDL,67,155,Others
+879,F,54,Married,Kitui West,Second line,WHO STAGE 1 ADULT,540,LDL,44,149,Active
+880,M,18,Single,Mwingi West,First line,WHO STAGE 3 ADULT,NULL,HDL,17,117,Active
+881,F,51,Married,Mwingi West,First line,WHO STAGE 3 ADULT,184,LDL,44,156,Active
+882,F,42,Single,Kitui West,First line,WHO STAGE 3 ADULT,NULL,LDL,148,41,Active
+883,M,18,Single,Kitui West,First line,WHO STAGE 3 ADULT,1031,HDL,17,120,Active
+884,M,23,Single,Kitui West,First line,WHO STAGE 2 ADULT,941,LDL,24,120,Active
+NULL,F,21,Single,Kitui West,First line,WHO STAGE 1 ADULT,400,LDL,23,133,Transfer out
+886,M,18,Single,KITUI WEST,First line,WHO STAGE 1 ADULT,384,LDL,15,105,Active
+887,F,15,Single,Kitui West,First line,WHO STAGE 1 ADULT,592,LDL,9,96,Active
+888,F,19,Single,Kitui West,First line,WHO STAGE 3 ADULT,889,LDL,23,127,Active
+889,F,17,Single,Mwingi West,First line,WHO STAGE 1 ADULT,882,HDL,9,108,Active
+890,F,36,Married,Kitui West,First line,WHO STAGE 1 ADULT,437,LDL,68,158,Active
+891,M,4,Single,Kitui West,First line,WHO STAGE 1 ADULT,NULL,LDL,2.9,45,Active
+892,M,55,Married,Kitui West,First line,WHO STAGE 1 ADULT,193,LDL,48,159,Active
+893,F,47,Married,Kitui West,First line,WHO STAGE 1 ADULT,505,LDL,67.9,160,Active
+894,M,61,Married,Kitui West,First line,WHO STAGE 3 ADULT,296,LDL,54,165,Active
+NULL,F,48,Single,Kitui West,First line,WHO STAGE 2 ADULT,254,LDL,65,156,Transfer out
+896,F,58,Single,Kitui West,First line,WHO STAGE 1 ADULT,227,LDL,71,167,Active
+897,M,21,Single,Kitui West,Second line,WHO STAGE 2 ADULT,419,LDL,36,141,Active
+NULL,F,35,Married,Mwingi Central,First line,WHO STAGE 1 ADULT,548,LDL,45.1,154,Transfer out
+899,M,72,Divorced,Kitui West,First line,WHO STAGE 3 ADULT,185,LDL,67,173,Active
+900,M,19,Divorced,Kitui West,Second line,WHO STAGE 1 ADULT,979,LDL,19,128,Active
+901,F,18,Divorced,Kitui West,First line,WHO STAGE 1 ADULT,941,LDL,12,120,Active
+902,M,18,Single,Kitui West,First line,WHO STAGE 2 ADULT,609,HDL,37,144,Active
+NULL,F,84,Widowed,KITUI WEST,First line,WHO STAGE 1 ADULT,308,LDL,50,157,Transfer out
+904,F,43,Married,Kitui West,First line,WHO STAGE 1 ADULT,NULL,LDL,60,161,Active
+NULL,M,22,Single,KITUI WEST,First line,WHO STAGE 2 ADULT,394,LDL,26,133,Transfer out
+NULL,F,21,Single,Kitui West,First line,WHO STAGE 1 ADULT,755,HDL,16,121,Lost to followup
+907,F,16,Single,Mwingi West,First line,WHO STAGE 1 ADULT,1824,LDL,9,96,Active
+NULL,F,23,Single,KITUI WEST,First line,WHO STAGE 1 ADULT,NULL,LDL,48,152,Others
+909,M,15,Single,Kitui West,First line,WHO STAGE 2 ADULT,108,HDL,8,108,Active
+910,F,51,Single,Mwingi West,First line,WHO STAGE 2 ADULT,NULL,LDL,62,156,Active
+911,M,21,Single,Mwingi West,First line,WHO STAGE 3 ADULT,443,LDL,24,142,Active
+912,F,18,Single,Kitui West,First line,WHO STAGE 1 ADULT,936,HDL,16,110,Active
+913,M,29,Single,Kitui West,First line,WHO STAGE 1 ADULT,237,LDL,33,145,Active
+914,F,63,Married,Kitui West,First line,WHO STAGE 1 ADULT,409,LDL,62,160,Active
+915,F,50,Single,Kitui West,First line,WHO STAGE 1 ADULT,559,HDL,54,160,Active
+NULL,F,18,Single,Kitui West,First line,WHO STAGE 4 ADULT,560,LDL,18,108,Transfer out
+917,M,21,Single,Kitui West,Second line,WHO STAGE 4 ADULT,797,HDL,126,17,Active
+918,M,17,Single,Kitui West,Second line,WHO STAGE 3 ADULT,836,LDL,23,122,Active
+919,F,39,Married,Kitui West,First line,WHO STAGE 1 ADULT,210,LDL,43,156,Active
+920,M,34,Married,Mwingi West,First line,WHO STAGE 1 ADULT,NULL,LDL,42.6,171,Active
+921,F,84,Widowed,Kitui West,First line,WHO STAGE 3 ADULT,393,LDL,48,161,Active
+922,F,77,Married,Kitui West,First line,WHO STAGE 1 ADULT,250,LDL,79,166,Active
+NULL,M,66,Married,Mwingi Central,First line,WHO STAGE 1 ADULT,748,LDL,68,171,Died
+932,F,52,Single,Mwingi West,First line,WHO STAGE 3 ADULT,319,LDL,49,155,Active
+945,F,48,Married,Kitui West,First line,WHO STAGE 2 ADULT,338,LDL,50,167,Active
+946,M,40,Married,Mwingi Central,First line,WHO STAGE 3 ADULT,NULL,LDL,54,164,Active
+947,F,37,Married,Mwingi West,First line,WHO STAGE 3 ADULT,297,LDL,48,154,Active
+948,F,42,Married,Kitui West,First line,WHO STAGE 2 ADULT,864,LDL,50,146,Active
+949,F,32,Married,Kitui West,First line,WHO STAGE 1 ADULT,NULL,LDL,59,162,Active
+950,F,50,Married,Kitui West,First line,WHO STAGE 3 ADULT,NULL,LDL,67,148,Active
+951,F,40,Married,Kitui Rural,First line,WHO STAGE 1 ADULT,291,LDL,40,162,Active
+952,M,55,Married,Kitui West,First line,WHO STAGE 3 ADULT,NULL,LDL,49,176,Active
+953,F,48,Married,Kitui West,First line,WHO STAGE 1 ADULT,NULL,LDL,62,160,Active
+954,F,33,Married,Mwingi West,First line,WHO STAGE 1 ADULT,939,LDL,41,145,Active
+955,M,60,Married,Kitui West,First line,WHO STAGE 1 ADULT,NULL,LDL,70,164,Active
+956,F,41,Married,Kitui West,Second line,WHO STAGE 3 ADULT,548,LDL,40,150,Active
+NULL,F,39,Single,Mwingi West,First line,WHO STAGE 2 ADULT,NULL,NULL,53,149,Transfer out
+958,M,56,Married,Kitui West,First line,WHO STAGE 1 ADULT,309,LDL,59,168,Active
+959,F,58,Widowed,Mwingi West,First line,WHO STAGE 3 ADULT,410,LDL,55,155,Active
+961,F,51,Married,Kitui West,Second line,WHO STAGE 3 ADULT,286,HDL,35,160,Active
+962,F,38,Single,Kitui West,First line,WHO STAGE 1 ADULT,490,LDL,34,149,Active
+NULL,F,24,Single,Kitui West,First line,WHO STAGE 1 PEDS,NULL,HDL,70.5,161,Transfer out
+964,F,29,Single,Kitui West,First line,WHO STAGE 1 ADULT,302,LDL,40,140,Active
+965,F,47,Married,Kitui West,First line,WHO STAGE 2 ADULT,288,LDL,60,160,Active
+NULL,F,54,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,60,157,Lost to followup
+NULL,F,39,Married,Kitui West,NULL,WHO STAGE 2 ADULT,NULL,NULL,60,162,Lost to followup
+NULL,M,35,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,74,127,Transfer out
+969,M,25,Single,Kitui West,First line,WHO STAGE 1 ADULT,828,LDL,27,138,Active
+970,F,41,Single,Kitui West,Second line,WHO STAGE 2 ADULT,235,LDL,43,158,Active
+971,F,9,Single,Kitui West,Second line,WHO STAGE 1 PEDS,NULL,LDL,2.6,72,Active
+972,F,62,Married,Mwingi West,First line,WHO STAGE 1 ADULT,NULL,LDL,62.7,152,Active
+973,F,38,Divorced,Kitui West,First line,WHO STAGE 3 ADULT,NULL,HDL,55.4,164,Active
+NULL,F,35,Married,Kitui West,NULL,WHO STAGE 2 ADULT,273,NULL,72,160,Lost to followup
+976,F,19,NULL,Mwingi West,First line,WHO STAGE 2 PEDS,189,HDL,10,90,Active
+NULL,M,45,Married,Kitui West,NULL,WHO STAGE 1 ADULT,358,NULL,56,166,Lost to followup
+978,F,46,Married,Mwingi West,First line,WHO STAGE 1 ADULT,363,LDL,50,163,Active
+NULL,F,38,Single,Kitui West,NULL,WHO STAGE 1 ADULT,270,NULL,77,175,Lost to followup
+NULL,M,33,NULL,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,66,160,Others
+NULL,F,36,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,54,160,Lost to followup
+982,M,46,Married,Kitui West,First line,WHO STAGE 3 ADULT,83,LDL,60,172,Active
+983,F,43,Married,Kitui West,First line,WHO STAGE 1 ADULT,264,LDL,50,160,Active
+NULL,F,35,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,50,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,65,160,Others
+NULL,F,42,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,65,161,Lost to followup
+NULL,F,43,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,61,148,Lost to followup
+NULL,F,34,Married,Kitui West,NULL,WHO STAGE 3 ADULT,NULL,NULL,47,156,Lost to followup
+992,F,57,Married,Mwingi West,First line,WHO STAGE 1 PEDS,NULL,LDL,43,148,Active
+NULL,F,24,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,NULL,NULL,Others
+997,F,27,Married,Kitui West,First line,WHO STAGE 1 ADULT,102,LDL,33,135,Active
+NULL,M,54,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,49,173,Others
+NULL,F,23,Married,Kitui West,NULL,WHO STAGE 3 ADULT,NULL,NULL,22,126,Lost to followup
+1000,F,38,Married,Mwingi Central,First line,WHO STAGE 1 ADULT,NULL,HDL,62,144,Active
+NULL,F,61,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,56,156,Lost to followup
+NULL,M,52,Married,Kitui West,NULL,NULL,NULL,NULL,68,124,Others
+NULL,F,31,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,61,Married,Kitui West,NULL,WHO STAGE 3 ADULT,NULL,NULL,42,160,Lost to followup
+NULL,F,32,Single,Kitui West,NULL,WHO STAGE 1 ADULT,414,NULL,44,140,Lost to followup
+NULL,F,49,Married,Kitui West,NULL,WHO STAGE 2 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,13,Married,Kitui West,NULL,WHO STAGE 2 PEDS,NULL,NULL,NULL,NULL,Others
+NULL,F,37,Married,Kitui West,NULL,WHO STAGE 1 ADULT,76,NULL,51,160,Lost to followup
+1010,F,51,Married,Kitui West,First line,WHO STAGE 1 PEDS,676,LDL,38,145,Active
+1011,M,24,Married,Kitui West,First line,WHO STAGE 1 ADULT,276,NULL,31,147,Active
+NULL,F,52,Married,Kitui West,NULL,WHO STAGE 3 ADULT,72,NULL,NULL,NULL,Lost to followup
+NULL,M,27,Married,Kitui West,NULL,WHO STAGE 3 ADULT,544,NULL,NULL,NULL,Others
+NULL,F,15,Single,Kitui West,NULL,WHO STAGE 3 PEDS,NULL,NULL,NULL,NULL,Others
+NULL,F,36,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,65,158,Others
+NULL,M,31,Single,Kitui West,NULL,WHO STAGE 2 ADULT,NULL,NULL,43,160,Lost to followup
+NULL,F,51,Married,Kitui West,NULL,WHO STAGE 3 ADULT,777,NULL,NULL,NULL,Others
+1019,M,64,Married,Kitui West,First line,WHO STAGE 1 ADULT,NULL,LDL,51.6,174,Active
+NULL,M,26,Married,Kitui West,NULL,WHO STAGE 2 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,M,63,Married,Kitui West,NULL,WHO STAGE 1 ADULT,232,NULL,52,168,Lost to followup
+NULL,F,35,Married,Kitui West,NULL,WHO STAGE 2 ADULT,NULL,NULL,NULL,NULL,Others
+1024,F,50,Married,Kitui West,First line,WHO STAGE 3 ADULT,239,LDL,48,162,Active
+NULL,F,48,Married,Kitui West,NULL,WHO STAGE 2 ADULT,155,NULL,NULL,NULL,Lost to followup
+NULL,M,42,Married,Kitui West,NULL,WHO STAGE 1 ADULT,511,NULL,NULL,NULL,Others
+NULL,F,42,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,54,162,Others
+NULL,F,41,Married,Kitui West,NULL,WHO STAGE 4 ADULT,NULL,NULL,NULL,NULL,Lost to followup
+NULL,F,40,Divorced,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,31,Married,Kitui West,NULL,WHO STAGE 1 ADULT,479,NULL,159,51,Lost to followup
+NULL,F,22,Single,Kitui West,NULL,WHO STAGE 3 ADULT,472,NULL,31,123,Lost to followup
+NULL,M,29,Single,Kitui West,First line,WHO STAGE 1 ADULT,26,LDL,53,165,Lost to followup
+NULL,F,36,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,29,Single,Kitui West,NULL,WHO STAGE 3 ADULT,NULL,NULL,NULL,NULL,Lost to followup
+NULL,F,39,Married,Kitui West,NULL,WHO STAGE 2 ADULT,320,NULL,38,155,Lost to followup
+NULL,F,31,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,M,59,Single,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,64,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,65,Married,Kitui West,NULL,WHO STAGE 2 ADULT,NULL,NULL,52,159,Others
+NULL,F,50,Married,Kitui West,NULL,WHO STAGE 3 ADULT,NULL,NULL,NULL,NULL,Lost to followup
+NULL,F,49,Married,Kitui West,NULL,WHO STAGE 2 ADULT,NULL,NULL,47,152,Lost to followup
+NULL,F,52,Married,Kitui West,NULL,WHO STAGE 2 ADULT,76,NULL,40,154,Lost to followup
+NULL,F,10,Married,Kitui West,NULL,WHO STAGE 1 PEDS,NULL,NULL,58,167,Lost to followup
+NULL,F,44,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,34,151,Others
+NULL,F,41,Single,Kitui West,NULL,WHO STAGE 3 ADULT,NULL,HDL,NULL,NULL,Others
+NULL,F,49,Married,Mwingi Central,NULL,WHO STAGE 1 ADULT,NULL,NULL,35,164,Lost to followup
+NULL,F,39,Married,Mwingi North,NULL,WHO STAGE 2 ADULT,NULL,NULL,47,156,Lost to followup
+1065,F,85,Widowed,Kitui West,First line,WHO STAGE 1 ADULT,354,LDL,50,145,Active
+NULL,F,17,Single,Kitui West,NULL,WHO STAGE 1 PEDS,NULL,NULL,37.7,145,Others
+NULL,F,35,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,NULL,NULL,Lost to followup
+NULL,M,38,Married,Kitui West,NULL,WHO STAGE 2 ADULT,NULL,NULL,51,156,Lost to followup
+1069,M,42,Divorced,Kitui West,First line,WHO STAGE 3 ADULT,NULL,LDL,46,172,Active
+NULL,F,53,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,33,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,55.6,156,Others
+NULL,M,9,Divorced,Kitui West,NULL,WHO STAGE 3 PEDS,NULL,LDL,12,97,Lost to followup
+NULL,M,19,Divorced,Kitui West,NULL,WHO STAGE 2 ADULT,1633,NULL,NULL,NULL,Others
+NULL,F,33,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,45,Married,Kitui West,NULL,WHO STAGE 2 ADULT,NULL,NULL,72,156,Others
+NULL,F,41,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,LDL,67,153,Lost to followup
+1077,F,26,Never married,Kitui West,First line,WHO STAGE 2 ADULT,474,LDL,33,160,Active
+NULL,F,42,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,58,160,Lost to followup
+NULL,F,52,Widowed,Kitui West,NULL,WHO STAGE 3 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,40,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,36,154,Lost to followup
+NULL,F,42,Married,Kitui West,NULL,WHO STAGE 1 ADULT,371,NULL,19,161,Lost to followup
+NULL,M,11,Never married,Kitui West,NULL,WHO STAGE 3 PEDS,237,NULL,52,172,Lost to followup
+NULL,M,36,Married,Kitui West,NULL,WHO STAGE 1 ADULT,410,NULL,66,174,Lost to followup
+NULL,F,48,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,39,Married,Kitui West,NULL,WHO STAGE 3 ADULT,NULL,NULL,82,164,Lost to followup
+NULL,F,13,Married,Kitui West,NULL,WHO STAGE 2 PEDS,103,NULL,NULL,NULL,Lost to followup
+NULL,M,14,Married,Kitui West,NULL,WHO STAGE 3 PEDS,101,NULL,47,141,Lost to followup
+NULL,F,52,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,33,97,Lost to followup
+NULL,M,72,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,35,163,Lost to followup
+NULL,F,33,Divorced,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,47,Married,Kitui West,NULL,WHO STAGE 1 ADULT,424,LDL,58,160,Lost to followup
+1099,F,32,Widowed,Kitui West,First line,WHO STAGE 1 ADULT,NULL,LDL,45,140,Active
+NULL,F,43,NULL,Kitui West,NULL,WHO STAGE 1 ADULT,294,NULL,NULL,NULL,Lost to followup
+NULL,F,35,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,54,164,Lost to followup
+NULL,F,34,Married,Kitui West,NULL,WHO STAGE 1 ADULT,863,NULL,NULL,NULL,Lost to followup
+NULL,F,42,Married,Kitui West,NULL,WHO STAGE 1 ADULT,294,NULL,51,167,Lost to followup
+NULL,F,37,Married,Kitui West,NULL,WHO STAGE 2 ADULT,NULL,NULL,NULL,NULL,Lost to followup
+NULL,F,10,Never married,Kitui West,NULL,WHO STAGE 1 PEDS,NULL,NULL,NULL,NULL,Lost to followup
+NULL,F,9,Married,Kitui West,NULL,WHO STAGE 2 PEDS,190,NULL,40,154,Lost to followup
+NULL,M,53,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,66,170,Lost to followup
+NULL,F,11,Divorced,Kitui West,NULL,WHO STAGE 1 PEDS,NULL,NULL,45,146,Lost to followup
+1109,F,15,Married,Kitui West,First line,WHO STAGE 1 PEDS,494,LDL,15,103,Active
+NULL,F,44,Married,Kitui West,NULL,WHO STAGE 1 ADULT,561,NULL,54,136,Lost to followup
+NULL,F,40,Married,Kitui West,NULL,WHO STAGE 1 ADULT,801,NULL,56,160,Lost to followup
+NULL,F,43,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,50,155,Lost to followup
+NULL,F,47,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,58,Married,Kitui West,NULL,WHO STAGE 3 ADULT,281,NULL,74,152,Lost to followup
+NULL,F,38,Married,Kitui West,NULL,WHO STAGE 1 ADULT,842,LDL,76,154,Lost to followup
+NULL,M,50,Married,Kitui West,NULL,WHO STAGE 2 ADULT,305,NULL,NULL,NULL,Lost to followup
+NULL,M,50,Married,Kitui West,NULL,WHO STAGE 3 ADULT,NULL,NULL,53,171,Lost to followup
+NULL,F,50,Married,Kitui West,First line,WHO STAGE 1 ADULT,NULL,NULL,88,166,Lost to followup
+NULL,F,43,Married,Kitui West,NULL,WHO STAGE 1 ADULT,214,NULL,68,160,Lost to followup
+NULL,F,59,Married,Kitui West,NULL,WHO STAGE 4 ADULT,647,NULL,NULL,NULL,Lost to followup
+NULL,M,12,Married,Kitui West,NULL,WHO STAGE 3 PEDS,NULL,NULL,NULL,NULL,Others
+NULL,F,33,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,53,159,Lost to followup
+1138,F,39,Married,Kitui West,First line,WHO STAGE 1 ADULT,278,LDL,56,154,Active
+NULL,F,12,Married,Kitui West,NULL,WHO STAGE 1 PEDS,NULL,NULL,62,170,Others
+NULL,F,39,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,NULL,NULL,Lost to followup
+NULL,M,62,Married,Kitui West,NULL,WHO STAGE 3 ADULT,NULL,NULL,45,157,Lost to followup
+NULL,F,43,Married,Mwingi Central,NULL,WHO STAGE 1 ADULT,NULL,NULL,65,160,Lost to followup
+NULL,F,49,Married,Kitui West,NULL,WHO STAGE 1 ADULT,454,NULL,55,156,Lost to followup
+NULL,F,40,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,57,178,Lost to followup
+NULL,F,37,Married,NULL,NULL,WHO STAGE 1 ADULT,325,NULL,NULL,NULL,Lost to followup
+1154,F,41,Married,Kitui West,First line,WHO STAGE 1 ADULT,NULL,LDL,68,155,Active
+NULL,F,45,Widowed,Kitui West,NULL,WHO STAGE 1 ADULT,82,NULL,46,157,Lost to followup
+NULL,F,32,Married,Kitui West,NULL,WHO STAGE 2 ADULT,366,NULL,56,158,Lost to followup
+NULL,F,35,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,40,156,Lost to followup
+NULL,F,38,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,NULL,NULL,Lost to followup
+NULL,F,52,Married,Kitui West,NULL,WHO STAGE 1 ADULT,358,NULL,58,165,Lost to followup
+NULL,F,49,Married,Kitui West,NULL,WHO STAGE 1 ADULT,4,NULL,NULL,NULL,Lost to followup
+NULL,F,40,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,41,161,Lost to followup
+NULL,F,40,Never married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,NULL,NULL,Lost to followup
+1198,F,46,Married,Kitui West,First line,WHO STAGE 3 ADULT,605,HDL,48,153,Active
+NULL,F,46,Married,Kitui West,NULL,WHO STAGE 1 ADULT,509,LDL,52,144,Lost to followup
+NULL,M,12,Married,Kitui West,NULL,WHO STAGE 2 PEDS,NULL,NULL,NULL,NULL,Lost to followup
+NULL,F,41,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,60,159,Lost to followup
+NULL,F,46,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,72,155,Lost to followup
+NULL,F,66,Married,Kitui West,NULL,WHO STAGE 1 ADULT,1153,NULL,51,161,Lost to followup
+NULL,F,30,Married,Kitui West,NULL,WHO STAGE 3 ADULT,168,NULL,NULL,NULL,Others
+NULL,M,53,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,NULL,NULL,Lost to followup
+NULL,F,39,Married,Kitui West,NULL,WHO STAGE 2 PEDS,NULL,NULL,55,156,Lost to followup
+NULL,F,49,Married,Kitui West,NULL,WHO STAGE 1 ADULT,58,NULL,NULL,NULL,Lost to followup
+NULL,M,27,Married,Kitui West,NULL,WHO STAGE 1 ADULT,757,LDL,NULL,NULL,Lost to followup
+NULL,F,24,Never married,Kitui West,NULL,WHO STAGE 1 ADULT,821,NULL,NULL,NULL,Lost to followup
+NULL,M,33,Married,Kitui West,NULL,WHO STAGE 3 ADULT,228,NULL,NULL,NULL,Lost to followup
+NULL,M,47,Married,Kitui West,NULL,WHO STAGE 2 ADULT,71,NULL,NULL,NULL,Lost to followup
+NULL,F,28,Married,Kitui West,NULL,WHO STAGE 4 PEDS,53,NULL,NULL,NULL,Lost to followup
+NULL,F,29,Married,Mwingi West,NULL,WHO STAGE 1 ADULT,NULL,NULL,45,148,Transfer out
+NULL,F,46,Married,Kitui West,NULL,WHO STAGE 2 ADULT,455,LDL,NULL,NULL,Transfer out
+1248,F,42,Married,Kitui West,First line,WHO STAGE 1 ADULT,656,LDL,57,157,Active
+1249,M,67,Widowed,Kitui West,First line,WHO STAGE 1 ADULT,701,LDL,87,171,Active
+NULL,F,45,Married,Kitui West,NULL,WHO STAGE 3 ADULT,NULL,NULL,NULL,NULL,Transfer out
+NULL,F,24,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,33,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,LDL,98.8,170,Transfer out
+1253,M,21,Married,Kitui West,First line,WHO STAGE 4 ADULT,NULL,LDL,25,160,Active
+NULL,M,23,Married,Kitui West,NULL,WHO STAGE 2 ADULT,323,NULL,NULL,NULL,Transfer out
+NULL,M,30,Married,Mwingi West,NULL,WHO STAGE 2 ADULT,751,NULL,17,168,Transfer out
+NULL,F,20,Married,Kitui West,NULL,WHO STAGE 2 ADULT,NULL,LDL,33,141,Transfer out
+NULL,M,59,Married,Kitui West,NULL,WHO STAGE 4 ADULT,178,LDL,48,171,Transfer out
+NULL,M,52,Widowed,Kitui West,NULL,WHO STAGE 3 ADULT,148,LDL,36,156,Transfer out
+NULL,F,29,Married,Kitui West,NULL,WHO STAGE 3 PEDS,33,NULL,NULL,NULL,Others
+NULL,F,50,Married,Kitui West,NULL,WHO STAGE 3 ADULT,NULL,NULL,48,151,Transfer out
+NULL,F,44,Married,Kitui West,NULL,WHO STAGE 2 ADULT,NULL,LDL,NULL,NULL,Transfer out
+NULL,F,51,Married,Kitui West,NULL,WHO STAGE 1 ADULT,138,NULL,55,163,Transfer out
+NULL,M,19,Married,Kitui West,NULL,WHO STAGE 1 PEDS,962,NULL,NULL,NULL,Transfer out
+NULL,F,44,Married,Kitui West,NULL,WHO STAGE 1 ADULT,398,NULL,NULL,NULL,Transfer out
+NULL,F,29,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,LDL,43,154,Transfer out
+NULL,M,47,Married,Kitui West,NULL,WHO STAGE 2 ADULT,362,NULL,55,164,Transfer out
+NULL,F,57,Married,Kitui West,NULL,WHO STAGE 4 ADULT,NULL,HDL,NULL,NULL,Transfer out
+NULL,M,29,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,53,148,Transfer out
+NULL,F,38,Married,Kitui West,NULL,WHO STAGE 1 ADULT,496,NULL,71,191,Transfer out
+NULL,M,60,Married,Kitui West,NULL,WHO STAGE 3 ADULT,NULL,NULL,44,150,Others
+NULL,F,37,married,NULL,NULL,WHO STAGE 1 ADULT,NULL,LDL,59,154,Transfer out
+NULL,F,52,Married,Kitui West,NULL,WHO STAGE 4 ADULT,389,NULL,NULL,NULL,Transfer out
+NULL,F,49,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,NULL,NULL,Transfer out
+NULL,M,44,Married,Kitui West,NULL,WHO STAGE 2 ADULT,NULL,NULL,NULL,NULL,Transfer out
+NULL,F,46,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,38,Married,Kitui West,NULL,WHO STAGE 2 PEDS,NULL,NULL,NULL,NULL,Transfer out
+NULL,F,21,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,74,Married,Kitui West,NULL,WHO STAGE 1 ADULT,861,LDL,55,156,Transfer out
+NULL,M,52,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,48,165,Transfer out
+NULL,F,38,Married,Kitui West,NULL,WHO STAGE 2 ADULT,NULL,NULL,NULL,NULL,Transfer out
+NULL,F,60,Married,Mwingi West,NULL,WHO STAGE 3 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,54,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,HDL,50,165,Transfer out
+NULL,F,26,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,LDL,80,162,Transfer out
+NULL,F,23,Single,Mwingi West,NULL,WHO STAGE 1 ADULT,448,NULL,NULL,NULL,Transfer out
+NULL,M,17,Single,Mwingi West,NULL,WHO STAGE 1 PEDS,NULL,NULL,NULL,NULL,Transfer out
+NULL,F,39,Married,Kitui West,NULL,WHO STAGE 1 ADULT,1348,NULL,52,156,Others
+NULL,F,41,Married,Kitui West,NULL,WHO STAGE 3 ADULT,159,NULL,NULL,NULL,Others
+NULL,F,22,Single,Kitui West,NULL,WHO STAGE 1 ADULT,896,NULL,28,133,Transfer out
+NULL,F,48,Married,Kitui West,NULL,WHO STAGE 2 ADULT,NULL,NULL,NULL,NULL,Lost to followup
+NULL,M,28,Married,Mwingi West,NULL,WHO STAGE 1 ADULT,NULL,NULL,90,171,Transfer out
+NULL,F,26,Married,Kitui West,First line,WHO STAGE 1 ADULT,135,HDL,40,150,Lost to followup
+NULL,F,37,Married,Kitui West,NULL,WHO STAGE 1 ADULT,476,NULL,NULL,NULL,Transfer out
+NULL,F,39,Married,Mwingi West,NULL,WHO STAGE 1 ADULT,NULL,NULL,NULL,NULL,Transfer out
+NULL,F,38,Married,Kitui West,NULL,WHO STAGE 2 ADULT,NULL,NULL,NULL,NULL,Transfer out
+NULL,F,74,Married,Kitui West,NULL,WHO STAGE 3 ADULT,NULL,NULL,NULL,NULL,Transfer out
+NULL,F,76,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,NULL,NULL,Transfer out
+NULL,M,40,Married,Kitui West,NULL,WHO STAGE 3 ADULT,82,LDL,35,154,Transfer out
+NULL,F,74,Married,Kitui West,NULL,WHO STAGE 3 ADULT,124,NULL,56.5,156,Transfer out
+NULL,F,46,Married,Kitui West,NULL,WHO STAGE 3 ADULT,NULL,NULL,NULL,NULL,Transfer out
+NULL,F,10,Married,Kitui West,NULL,WHO STAGE 2 PEDS,NULL,LDL,9.5,95,Others
+NULL,F,50,Married,Kilome,NULL,WHO STAGE 2 ADULT,NULL,NULL,NULL,NULL,Transfer out
+NULL,F,53,Married,Kitui West,NULL,WHO STAGE 3 ADULT,NULL,NULL,50,142,Others
+NULL,F,42,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,LDL,52,162,Others
+NULL,F,20,Single,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,LDL,29,134,Others
+NULL,M,50,Married,Kitui West,NULL,WHO STAGE 1 ADULT,356,NULL,NULL,NULL,Transfer out
+NULL,F,54,Married,Kitui West,NULL,WHO STAGE 1 ADULT,330,LDL,63.1,166,Transfer out
+NULL,F,21,Married,Kitui West,NULL,WHO STAGE 2 ADULT,1075,NULL,46,156,Transfer out
+NULL,F,53,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,LDL,71,154,Others
+NULL,F,31,Married,Kitui West,NULL,WHO STAGE 1 ADULT,562,NULL,NULL,NULL,Others
+NULL,F,53,Married,Kitui West,NULL,WHO STAGE 2 PEDS,NULL,NULL,NULL,NULL,Others
+NULL,F,38,Married,Kitui West,NULL,WHO STAGE 2 ADULT,410,LDL,NULL,NULL,Others
+NULL,M,22,Married,Mwingi West,NULL,WHO STAGE 3 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,48,Married,Mwingi West,NULL,WHO STAGE 1 PEDS,NULL,NULL,65,157,Others
+NULL,M,51,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,52,175,Others
+NULL,F,53,Widowed,Kitui West,NULL,WHO STAGE 3 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,27,Married,Kitui West,NULL,WHO STAGE 3 ADULT,NULL,NULL,NULL,NULL,Transfer out
+NULL,F,27,Married,Kitui West,NULL,WHO STAGE 4 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,15,Married,Kitui West,NULL,WHO STAGE 2 PEDS,NULL,NULL,NULL,NULL,Others
+NULL,F,46,Married,Kitui West,NULL,WHO STAGE 2 ADULT,270,NULL,NULL,NULL,Others
+NULL,F,41,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,M,50,NULL,Mwingi West,NULL,WHO STAGE 1 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,43,Married,Kitui West,NULL,WHO STAGE 3 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,46,Married,Kitui West,NULL,WHO STAGE 3 ADULT,155,NULL,NULL,NULL,Others
+NULL,F,50,Married,Kitui West,NULL,WHO STAGE 2 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,56,Married,Kitui West,NULL,WHO STAGE 3 ADULT,313,NULL,46,158,Transfer out
+NULL,F,46,Married,Kitui West,NULL,WHO STAGE 3 ADULT,164,NULL,NULL,NULL,Others
+NULL,F,39,Married,Mwingi Central,NULL,WHO STAGE 1 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,59,Married,Kitui West,NULL,WHO STAGE 3 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,15,Single,Kitui West,NULL,WHO STAGE 1 PEDS,NULL,NULL,NULL,NULL,Others
+NULL,F,79,Married,Kitui West,NULL,WHO STAGE 4 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,M,39,Married,Mwingi West,NULL,WHO STAGE 1 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,42,Married,Mwingi Central,NULL,WHO STAGE 2 ADULT,810,NULL,NULL,NULL,Lost to followup
+NULL,M,59,Married,Mwingi West,NULL,WHO STAGE 3 ADULT,559,NULL,NULL,NULL,Others
+NULL,F,45,Married,NULL,NULL,WHO STAGE 1 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,48,Widowed,Kitui West,NULL,WHO STAGE 2 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,M,66,Married,Mwingi West,NULL,WHO STAGE 3 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,45,Married,Mwingi West,NULL,WHO STAGE 1 ADULT,393,NULL,NULL,NULL,Others
+NULL,F,44,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,M,20,Single,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,24,Single,Kitui West,NULL,WHO STAGE 2 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,55,Married,Kitui West,NULL,WHO STAGE 3 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,39,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,48,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,78,Married,Kitui West,NULL,WHO STAGE 4 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,M,55,Widowed,Kitui West,NULL,WHO STAGE 3 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,M,59,Married,Mwingi North,NULL,WHO STAGE 3 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,M,48,Married,Kitui West,NULL,WHO STAGE 3 PEDS,NULL,NULL,NULL,NULL,Others
+NULL,F,70,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,52,Married,Kitui West,NULL,WHO STAGE 3 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,18,Married,Kitui West,NULL,WHO STAGE 2 PEDS,NULL,NULL,NULL,NULL,Others
+NULL,M,29,Married,Kitui West,NULL,WHO STAGE 4 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,44,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,46,Married,Kitui West,NULL,WHO STAGE 1 PEDS,NULL,NULL,NULL,NULL,Others
+NULL,M,38,Married,Kitui West,NULL,WHO STAGE 3 PEDS,NULL,NULL,NULL,NULL,Others
+NULL,M,34,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,32,Married,Mwingi West,NULL,WHO STAGE 1 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,44,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,53,NULL,Kitui West,NULL,WHO STAGE 3 ADULT,NULL,NULL,NULL,NULL,Died
+NULL,F,32,Married,Kitui West,NULL,WHO STAGE 3 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,57,Married,Kitui West,NULL,WHO STAGE 3 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,58,Married,Kitui West,NULL,WHO STAGE 3 ADULT,362,NULL,59,169,Others
+NULL,M,52,Married,Kitui West,NULL,WHO STAGE 3 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,41,Married,Kitui West,NULL,WHO STAGE 2 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,36,Married,Kitui West,NULL,WHO STAGE 2 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,32,Married,Kitui West,NULL,WHO STAGE 2 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,48,Married,Mwingi West,NULL,WHO STAGE 1 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,48,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,64,Married,Kitui West,NULL,WHO STAGE 3 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,35,Married,Mwingi West,NULL,WHO STAGE 2 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,41,Married,Kitui West,NULL,WHO STAGE 2 ADULT,1225,NULL,NULL,NULL,Others
+NULL,F,42,Married,Kitui West,NULL,WHO STAGE 1 PEDS,NULL,NULL,NULL,NULL,Others
+NULL,F,50,Married,Kitui West,NULL,WHO STAGE 2 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,67,Married,Kitui West,NULL,WHO STAGE 3 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,44,Widowed,Kitui West,NULL,WHO STAGE 3 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,M,14,Married,Mwingi Central,NULL,WHO STAGE 3 PEDS,NULL,NULL,NULL,NULL,Others
+NULL,M,13,Married,Kitui West,NULL,WHO STAGE 3 PEDS,781,NULL,NULL,NULL,Others
+NULL,M,39,Married,Kitui West,NULL,WHO STAGE 1 ADULT,48,NULL,NULL,NULL,Others
+NULL,F,74,Married,Kitui West,NULL,WHO STAGE 2 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,40,Married,Kitui West,NULL,WHO STAGE 3 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,M,55,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,50,Married,Mwingi West,NULL,WHO STAGE 3 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,35,Married,Mwingi West,NULL,WHO STAGE 1 PEDS,NULL,NULL,NULL,NULL,Others
+NULL,F,31,Married,Kitui West,NULL,WHO STAGE 3 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,42,Married,Kitui West,NULL,WHO STAGE 1 ADULT,590,NULL,NULL,NULL,Others
+NULL,F,53,Married,Kitui West,NULL,WHO STAGE 3 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,41,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,27,Married,Mwingi Central,NULL,WHO STAGE 1 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,30,Divorced,Kitui West,NULL,WHO STAGE 3 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,55,Married,Kitui West,NULL,WHO STAGE 3 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,64,Married,Mwingi West,NULL,WHO STAGE 1 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,61,Married,Mwingi West,NULL,WHO STAGE 3 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,36,Married,Kitui West,NULL,WHO STAGE 2 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,33,NULL,Kitui West,NULL,WHO STAGE 1 ADULT,419,NULL,40,142,Others
+NULL,F,30,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,44,Single,Kitui West,NULL,WHO STAGE 3 ADULT,13,NULL,NULL,NULL,Others
+NULL,F,34,Married,Kitui West,NULL,WHO STAGE 3 ADULT,717,NULL,NULL,NULL,Others
+NULL,F,16,Married,Kitui West,NULL,WHO STAGE 2 PEDS,NULL,NULL,NULL,NULL,Others
+NULL,F,47,Widowed,Kitui West,NULL,WHO STAGE 3 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,38,Married,Mwingi West,NULL,WHO STAGE 2 ADULT,216,NULL,NULL,NULL,Others
+NULL,F,62,Married,Kitui West,NULL,WHO STAGE 3 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,74,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,33,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,60,Married,Kitui West,NULL,WHO STAGE 3 ADULT,522,NULL,NULL,NULL,Others
+NULL,F,36,Married,Kitui West,NULL,WHO STAGE 3 ADULT,538,NULL,NULL,NULL,Others
+1422,F,34,Divorced,Kitui West,First line,WHO STAGE 1 ADULT,389,LDL,64,173,Active
+1424,F,40,Single,Kitui West,First line,WHO STAGE 2 ADULT,NULL,LDL,78,160,Active
+NULL,M,70,Married,Mwingi West,NULL,WHO STAGE 4 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,42,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,29,Married,Kitui West,NULL,WHO STAGE 2 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,76,NULL,Kitui West,NULL,WHO STAGE 2 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,46,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,32,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,44,150,Others
+NULL,F,31,Married,Kitui West,NULL,WHO STAGE 3 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,M,53,Married,Kitui West,NULL,WHO STAGE 4 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,64,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,53,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,42,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,63,Widowed,Kitui West,NULL,WHO STAGE 2 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,M,24,Married,Kitui West,NULL,WHO STAGE 2 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,36,Married,Kitui West,NULL,WHO STAGE 2 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,20,Married,Mwingi West,NULL,WHO STAGE 1 ADULT,NULL,NULL,NULL,NULL,Others
+NULL,F,42,Married,Kitui West,NULL,WHO STAGE 1 ADULT,NULL,NULL,NULL,NULL,Others
+1450,F,41,Single,Kitui West,First line,WHO STAGE 1 ADULT,NULL,HDL,70,156,Active
+1451,F,57,Married,Mwingi West,First line,WHO STAGE 3 ADULT,NULL,LDL,70,163,Active
+1454,F,17,Single,Kitui West,First line,WHO STAGE 1 PEDS,1240,LDL,14,76,Active
+NULL,M,32,Single,Kitui West,First line,WHO STAGE 1 ADULT,NULL,NULL,54.5,163,Others
+1456,M,46,Married,Kitui West,First line,WHO STAGE 1 ADULT,NULL,LDL,55.4,159,Active
+NULL,F,24,Single,Kitui West,First line,WHO STAGE 1 ADULT,NULL,NULL,56.7,154,Others
+NULL,F,24,NULL,Kitui West,First line,WHO STAGE 2 ADULT,NULL,LDL,40,136,Transfer out
+1460,F,44,Widowed,Kitui West,First line,WHO STAGE 2 ADULT,NULL,LDL,42,156,Active
+1495,M,13,NULL,Kitui West,First line,WHO STAGE 1 PEDS,NULL,LDL,10.2,93,Active
+1522,M,64,Married,Kitui West,First line,WHO STAGE 1 ADULT,309,LDL,63,161,Active
+1600,F,63,Widowed,Kitui West,First line,WHO STAGE 1 ADULT,NULL,LDL,64.8,156,Active
+NULL,M,25,Single,Kitui West,First line,WHO STAGE 3 ADULT,NULL,NULL,47,170,Transfer out
+NULL,F,24,Single,Kitui West,First line,WHO STAGE 1 ADULT,NULL,NULL,59,168,Lost to followup
+1732,F,57,Married,Kitui West,First line,WHO STAGE 2 ADULT,NULL,LDL,45,145,Active
+1733,F,33,Married,Kitui West,First line,WHO STAGE 1 ADULT,NULL,LDL,50,150,Active
+NULL,F,30,Married,Kitui West,First line,WHO STAGE 1 ADULT,NULL,LDL,48,151,Transfer out
+NULL,F,43,Single,Kitui West,First line,WHO STAGE 1 ADULT,NULL,NULL,66,177,Others
+1736,F,44,Married,Kitui West,First line,WHO STAGE 1 ADULT,NULL,HDL,50,156,Active
+1751,F,9,Single,Kitui West,First line,WHO STAGE 1 PEDS,NULL,HDL,15.9,110,Active
+1752,F,37,Married,Kitui West,First line,WHO STAGE 2 ADULT,NULL,LDL,50,158,Active
+NULL,F,38,Single,Mwingi West,First line,WHO STAGE 3 ADULT,NULL,NULL,56.4,160,Transfer out
+NULL,F,36,Single,Kitui West,First line,WHO STAGE 1 ADULT,NULL,LDL,66,166,Transfer out
+NULL,F,46,Married,Mwingi Central,First line,WHO STAGE 2 ADULT,NULL,LDL,55.6,158,Transfer out
+1830,M,45,Married,Kitui West,First line,WHO STAGE 1 ADULT,NULL,LDL,54.3,172,Active
+NULL,F,33,Single,Mwingi West,First line,WHO STAGE 1 ADULT,NULL,NULL,39,169,Lost to followup
+1832,F,49,Married,Kitui West,First line,WHO STAGE 2 ADULT,NULL,LDL,46,150,Active
+1866,M,50,Married,Kitui West,First line,WHO STAGE 2 ADULT,NULL,LDL,56,165,Active
+NULL,F,36,Married,Kitui West,First line,WHO STAGE 1 ADULT,NULL,NULL,45,153,Lost to followup
+1939,F,53,Married,Kitui West,First line,WHO STAGE 1 ADULT,NULL,LDL,56,163,Active
+1946,F,9,Single,Kitui Central,First line,WHO STAGE 1 PEDS,NULL,HDL,18.9,113,Active
+1977,F,34,Divorced,Kitui West,First line,WHO STAGE 1 ADULT,NULL,HDL,50,159,Active
+NULL,M,4,Single,KITUI WEST,First line,WHO STAGE 3 PEDS,NULL,NULL,6,69,Died
+NULL,M,49,Divorced,Kitui West,First line,WHO STAGE 1 ADULT,NULL,NULL,60,162,Others
+2005,M,47,Married,Kitui West,First line,WHO STAGE 1 ADULT,NULL,LDL,52,161,Active
+2087,M,18,Single,Kitui West,First line,WHO STAGE 1 PEDS,277,HDL,24,116,Active
+2089,F,49,Married,KITUI WEST,First line,WHO STAGE 1 ADULT,NULL,LDL,48,155,Active
+NULL,F,71,Widowed,Kitui West,First line,WHO STAGE 3 ADULT,NULL,NULL,36,156,Transfer out
+2237,F,41,Married,Kitui West,First line,WHO STAGE 1 ADULT,NULL,LDL,65,158,Active
+2238,F,22,Married,Kitui West,First line,WHO STAGE 1 ADULT,NULL,LDL,66,152,Active
+2304,F,57,Widowed,Mwingi North,First line,WHO STAGE 1 ADULT,NULL,LDL,53.3,160,Active
+2377,M,43,Married,Kitui West,First line,WHO STAGE 1 ADULT,NULL,HDL,56,164,Active
+2380,F,47,Married,Kitui West,First line,WHO STAGE 2 ADULT,554,LDL,49,169,Active
+2420,M,22,Single,Kitui Central,First line,WHO STAGE 2 ADULT,NULL,LDL,54,160,Active
+2446,F,67,Widowed,Mwingi West,First line,WHO STAGE 1 ADULT,NULL,LDL,44.7,153,Active
+2529,F,25,Single,NULL,First line,WHO STAGE 1 ADULT,NULL,HDL,65,157,Active
+2562,F,62,Married,Kitui West,First line,WHO STAGE 1 ADULT,NULL,LDL,51,156,Active
+NULL,F,40,Married,Kitui West,First line,WHO STAGE 1 ADULT,NULL,NULL,73.6,160,Others
+2564,F,29,Married,Kitui West,First line,WHO STAGE 1 ADULT,NULL,HDL,43.9,156,Active
+2675,F,68,Widowed,Kitui West,First line,WHO STAGE 1 ADULT,305,LDL,59.7,159,Active
+NULL,F,59,Divorced,Kitui West,First line,WHO STAGE 3 ADULT,NULL,NULL,32,150,Died
+2679,F,27,Single,Mwingi West,First line,WHO STAGE 1 ADULT,NULL,LDL,52.6,160,Active
+2682,M,51,Married,Kitui West,First line,WHO STAGE 1 ADULT,NULL,LDL,57,166,Active
+2693,F,41,Married,Kitui Central,First line,WHO STAGE 2 ADULT,NULL,LDL,53,162,Active
+2760,F,34,Divorced,Mwingi West,First line,WHO STAGE 1 ADULT,340,LDL,69,150,Active
+NULL,F,48,Single,Kitui West,First line,WHO STAGE 1 ADULT,NULL,LDL,58,162,Others
+2839,F,27,Married,Kitui Central,First line,WHO STAGE 1 ADULT,NULL,LDL,74,166,Active
+NULL,F,15,NULL,Kitui West,First line,WHO STAGE 3 PEDS,NULL,LDL,34,139,Transfer out
+NULL,F,37,Single,Kitui West,First line,WHO STAGE 1 ADULT,NULL,LDL,59.5,162,Transfer out
+NULL,M,12,Single,KITUI WEST,First line,WHO STAGE 1 PEDS,NULL,LDL,26,147,Transfer out
+NULL,M,71,Married,Kitui West,First line,WHO STAGE 3 ADULT,NULL,LDL,55,168,Died
+2892,M,37,Married,Kitui Central,First line,WHO STAGE 1 ADULT,NULL,LDL,52.5,171,Active
+2906,F,31,Married,Kitui West,First line,WHO STAGE 1 ADULT,NULL,LDL,53.1,162,Active
+NULL,F,31,Married,Kitui West,First line,WHO STAGE 2 ADULT,NULL,HDL,55,137,Died
+3122,M,60,Married,Mwingi West,First line,WHO STAGE 3 ADULT,NULL,LDL,46.4,163,Active
+3159,F,56,Married,Kitui Central,First line,WHO STAGE 3 ADULT,NULL,LDL,94,158,Active
+NULL,M,50,Single,Kitui West,First line,WHO STAGE 3 ADULT,350,LDL,35,176,Died
+3162,F,29,Single,Kitui Central,First line,WHO STAGE 1 ADULT,NULL,LDL,60,168,Active
+3166,F,5,Single,Kitui Central,First line,WHO STAGE 1 PEDS,NULL,LDL,13,97,Active
+3195,M,32,Single,Mwingi West,First line,WHO STAGE 1 ADULT,NULL,LDL,58.9,172,Active
+3218,F,43,Divorced,Kitui West,First line,WHO STAGE 1 ADULT,NULL,LDL,70,161,Active
+3226,F,79,Widowed,Kitui West,First line,WHO STAGE 2 ADULT,987,LDL,49.6,150,Active
+3231,F,49,Married,Kitui West,First line,WHO STAGE 3 ADULT,315,LDL,49.6,160,Active
+NULL,F,37,Married,Kitui West,First line,WHO STAGE 2 ADULT,150,LDL,69,156,Transfer out
+3380,M,8,Single,Kitui West,First line,WHO STAGE 1 PEDS,NULL,HDL,17,118,Active
+3381,F,10,Single,Kitui West,First line,WHO STAGE 1 PEDS,799,LDL,23,132,Active
+NULL,F,35,Married,Kitui West,First line,WHO STAGE 1 ADULT,953,LDL,77,154,Transfer out
+3424,F,62,Single,Kitui West,First line,WHO STAGE 2 ADULT,172,LDL,81,159,Active
+3464,M,47,Married,Kitui West,First line,WHO STAGE 1 ADULT,NULL,LDL,51,168,Active
+3465,F,43,Married,Kitui West,First line,WHO STAGE 2 ADULT,NULL,LDL,50,165,Active
+3470,F,41,Married,Kitui West,First line,WHO STAGE 1 ADULT,347,LDL,56,156,Active
+3513,M,74,Married,Kitui West,First line,WHO STAGE 3 ADULT,308,LDL,43,167,Active
+3545,F,31,Divorced,Kitui West,First line,WHO STAGE 1 ADULT,653,LDL,57,159,Active
+3566,F,66,Widowed,Kitui West,First line,WHO STAGE 2 ADULT,187,LDL,56,158,Active
+3587,F,59,Single,Kitui West,First line,WHO STAGE 1 ADULT,658,LDL,85,165,Active
+NULL,M,35,Married,Kitui West,First line,WHO STAGE 1 ADULT,NULL,NULL,50,165,Others
+NULL,M,50,Married,Kitui West,NULL,WHO STAGE 2 ADULT,342,NULL,53,166,Others
+3786,M,50,Married,Kitui West,First line,WHO STAGE 2 ADULT,342,LDL,54,164,Active
+3876,F,20,Married,Kitui West,First line,WHO STAGE 1 ADULT,423,LDL,58,162,Active
+3883,F,25,Single,Kitui West,First line,WHO STAGE 1 ADULT,569,LDL,65,157,Active
+3886,F,1,Single,Kitui West,First line,WHO STAGE 1 PEDS,165,LDL,3.6,52,Active
+4179,F,63,Widowed,Kitui West,First line,WHO STAGE 1 ADULT,NULL,LDL,68,164,Active
+4216,F,35,Married,Kitui West,First line,WHO STAGE 1 ADULT,599,LDL,52,147,Active
+4219,M,47,Married,Kitui West,First line,WHO STAGE 2 ADULT,NULL,HDL,46,158,Active
+4239,F,40,Married,Mwingi West,First line,WHO STAGE 1 ADULT,NULL,LDL,90,162,Active
+4241,M,61,Married,Mwingi West,First line,WHO STAGE 1 ADULT,481,LDL,78,168,Active
+4378,F,40,Single,Kitui West,First line,WHO STAGE 1 ADULT,375,HDL,54,160,Active
+NULL,M,54,NULL,Kitui West,First line,WHO STAGE 3 ADULT,23,NULL,43,168,Died
+4380,F,52,Married,Kitui West,First line,WHO STAGE 1 ADULT,NULL,HDL,62,164,Active
+4382,F,34,Married,Kitui West,First line,WHO STAGE 1 ADULT,NULL,LDL,68,156,Active
+4383,F,11,Single,Kitui West,First line,WHO STAGE 2 PEDS,14,LDL,21,127,Active
+NULL,F,56,Single,Kitui West,First line,WHO STAGE 1 ADULT,115,NULL,31,154,Died
+4414,F,11,Single,Kitui West,First line,WHO STAGE 1 PEDS,NULL,LDL,28,133,Active
+4425,M,45,Married,Kitui West,First line,WHO STAGE 1 ADULT,NULL,LDL,70,160,Active
+NULL,F,35,Single,Kitui West,First line,WHO STAGE 1 ADULT,NULL,NULL,75,160,Others
+NULL,F,23,Married,Kitui West,First line,WHO STAGE 1 ADULT,NULL,NULL,53.9,152,Transfer out
+NULL,M,1,Single,Kitui West,First line,WHO STAGE 4 PEDS,NULL,HDL,1.8,50,Died
+4861,F,33,Single,Kitui West,First line,WHO STAGE 2 ADULT,46,HDL,60,159,Active
+4889,F,41,Divorced,Kitui Central,First line,WHO STAGE 2 ADULT,387,LDL,59.7,155,Active
+NULL,F,32,Married,Kitui West,First line,WHO STAGE 1 ADULT,NULL,NULL,72.4,166,Others
+5052,M,6,Single,Kitui West,First line,WHO STAGE 1 PEDS,1010,HDL,14,97,Active
+NULL,F,69,Married,Kitui West,First line,WHO STAGE 1 ADULT,449,LDL,62.6,157,Died
+NULL,F,26,NULL,Mwingi West,First line,WHO STAGE 1 ADULT,NULL,LDL,56,162,Others
+NULL,F,30,Single,Kitui West,First line,WHO STAGE 1 ADULT,NULL,NULL,95,160,Others
+5589,F,53,Widowed,Kitui West,First line,WHO STAGE 3 ADULT,NULL,HDL,40,149,Active
+5649,M,42,Married,Kitui West,First line,WHO STAGE 1 ADULT,NULL,HDL,45,160,Active
+5710,F,36,Married,Kitui West,First line,WHO STAGE 1 ADULT,NULL,LDL,43,165,Active
+5711,M,36,Married,Kitui West,First line,WHO STAGE 1 ADULT,NULL,NULL,58.9,171,Active
+5802,F,38,Married,Kitui West,First line,WHO STAGE 1 ADULT,NULL,NULL,72,165,Active
+5974,M,33,Married,Kitui West,First line,WHO STAGE 1 ADULT,NULL,NULL,54,151,Active
+NULL,F,56,Widowed,Kitui West,First line,WHO STAGE 1 ADULT,NULL,NULL,45,151,Died
+5979,F,44,Married,Kitui West,First line,WHO STAGE 1 ADULT,NULL,NULL,49,151,Active
+5980,F,10,Single,Kitui West,First line,WHO STAGE 1 PEDS,218,NULL,22,120,Active
+5981,M,51,Married,Kitui West,First line,WHO STAGE 1 ADULT,47,NULL,50,154,Active
+NULL,M,75,Married,Kitui West,NULL,WHO STAGE 3 ADULT,NULL,NULL,37.9,159,Others
+6079,M,15,Single,Kitui West,First line,WHO STAGE 1 PEDS,NULL,HDL,45,156,Active
+6105,M,33,Married,Kitui West,First line,WHO STAGE 1 ADULT,236,NULL,49,165,Active
+6113,F,33,Married,Mwingi West,First line,WHO STAGE 1 ADULT,NULL,NULL,45,150,Active
+NULL,M,49,Married,Kitui West,NULL,WHO STAGE 3 ADULT,NULL,NULL,50,163,Others
+6115,F,45,Married,Kitui West,First line,WHO STAGE 1 ADULT,NULL,NULL,38,154,Active
+6121,M,31,Single,Kitui West,First line,WHO STAGE 1 ADULT,246,LDL,55,160,Active
